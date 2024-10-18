@@ -1,0 +1,57 @@
+\hypertarget{classLoadBalancer}{}\doxysection{Load\+Balancer Class Reference}
+\label{classLoadBalancer}\index{LoadBalancer@{LoadBalancer}}
+
+
+Collaboration diagram for Load\+Balancer\+:
+% FIG 0
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_add325614b39962927e2f56ba6bd1c21f}\label{classLoadBalancer_add325614b39962927e2f56ba6bd1c21f}} 
+{\bfseries Load\+Balancer} (int num\+Servers, int deactivate\+Timeout, int max\+Queue\+Size)
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a34a608f637176631660ab09022a7af15}\label{classLoadBalancer_a34a608f637176631660ab09022a7af15}} 
+void {\bfseries Enqueue\+Requests} (vector$<$ \mbox{\hyperlink{classRequest}{Request}} $>$ requests)
+\item 
+\mbox{\Hypertarget{classLoadBalancer_ad713d5b918a4fbd4ea279df0f0864672}\label{classLoadBalancer_ad713d5b918a4fbd4ea279df0f0864672}} 
+void {\bfseries Tick} ()
+\item 
+\mbox{\Hypertarget{classLoadBalancer_ab6970f19e43ebf7db62be4df79bc27f9}\label{classLoadBalancer_ab6970f19e43ebf7db62be4df79bc27f9}} 
+int {\bfseries Num\+Active\+Servers} ()
+\item 
+\mbox{\Hypertarget{classLoadBalancer_ab0f16d1cead4b86097e253b719943e92}\label{classLoadBalancer_ab0f16d1cead4b86097e253b719943e92}} 
+int {\bfseries Num\+Free\+Servers} ()
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a6dafde9bcc402d330a742dde35cc122d}\label{classLoadBalancer_a6dafde9bcc402d330a742dde35cc122d}} 
+void {\bfseries Print} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a64f65307b9957f2fa99bb76d2b92d966}\label{classLoadBalancer_a64f65307b9957f2fa99bb76d2b92d966}} 
+vector$<$ \mbox{\hyperlink{classWebServer}{Web\+Server}} $>$ {\bfseries servers}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a615bae2d6a1e48d5f4e3de93e5c3ef73}\label{classLoadBalancer_a615bae2d6a1e48d5f4e3de93e5c3ef73}} 
+queue$<$ \mbox{\hyperlink{classRequest}{Request}} $>$ {\bfseries request\+Queue}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a5dbc11f309322b90fe6183b70b99b0eb}\label{classLoadBalancer_a5dbc11f309322b90fe6183b70b99b0eb}} 
+int {\bfseries current\+Time}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a403697948b48b6b216ec84cad8cd4a28}\label{classLoadBalancer_a403697948b48b6b216ec84cad8cd4a28}} 
+int {\bfseries requests\+Processed}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_a9dce57f4ea9cf9f9512fb62c1980845d}\label{classLoadBalancer_a9dce57f4ea9cf9f9512fb62c1980845d}} 
+int {\bfseries requests\+Dropped}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_aa5a9f692ca059c2988d7e59d55d6ebf5}\label{classLoadBalancer_aa5a9f692ca059c2988d7e59d55d6ebf5}} 
+int {\bfseries requests\+Completed}
+\item 
+\mbox{\Hypertarget{classLoadBalancer_ab3f573392cf17453b7a2597ac3fcf18d}\label{classLoadBalancer_ab3f573392cf17453b7a2597ac3fcf18d}} 
+int {\bfseries max\+Queue\+Size}
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+loadbalancer.\+h\item 
+loadbalancer.\+cpp\end{DoxyCompactItemize}
