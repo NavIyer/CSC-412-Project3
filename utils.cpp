@@ -1,3 +1,7 @@
+/**
+ * @file utils.cpp
+ * @brief Implementation of utility functions for the load balancer simulation
+ */
 
 #include "utils.h"
 

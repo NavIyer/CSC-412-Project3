@@ -1,3 +1,34 @@
+/**
+ * @file main.cpp
+ * @author Naveen Iyer
+ * @brief Main driver file for the load balancer simulation
+ * @date 2024-10-17
+ * 
+ * @copyright Copyright (c) 2024
+ * 
+ * @mainpage Load Balancer Simulation
+ * 
+ * This is a simple load balancer simulation that models a set of web servers processing incoming requests. The load balancer assigns requests to servers based on availability and deactivates servers after a specified timeout. Requests are enqueued in a queue and dropped if the queue is full.
+ * 
+ * The simulation runs for a specified number of cycles, and new requests are generated randomly at each cycle. The simulation tracks the number of requests processed, dropped, and completed, as well as the number of active and free servers at any given time.
+ * 
+ * The simulation is implemented using three main classes:
+ * 
+ * - Request: Represents an incoming request with an incoming IP address, outgoing IP address, processing time, and job type.
+ * 
+ * - WebServer: Represents a web server that can process requests. It tracks when the server will be free to process a new request and when it should be deactivated after processing a request.
+ * 
+ * - LoadBalancer: Manages a set of web servers and a queue of incoming requests. It assigns requests to servers as they become available and keeps track of statistics such as the number of requests processed, dropped, and completed.
+ * 
+ * The simulation is driven by the main function in main.cpp, which initializes the load balancer, generates initial requests, and runs the simulation for a specified number of cycles. The main function prints the status of the load balancer at regular intervals and displays the final statistics at the end of the simulation.
+ * 
+ * To run the simulation, compile the code using the provided Makefile and run the executable with two arguments: the number of web servers and the time to run the simulation in cycles. For example:
+ * 
+ * ./loadbalancer 5 1000
+ * 
+ * This will run the simulation with 5 web servers for 1000 cycles.
+ * 
+ */
 
 #include <iostream>
 #include "loadbalancer.h"
@@ -7,6 +38,13 @@ using std::cout;
 using std::endl;
 using std::string;
 
+/**
+ * @brief Main driver function for the load balancer simulation
+ * 
+ * @param argc Number of arguments
+ * @param argv Arguments
+ * @return int Exit code
+ */
 int main(int argc, char* argv[])
 {
     /////// Arguments //////
@@ -74,12 +112,14 @@ int main(int argc, char* argv[])
     }
 
     cout << "--- End of Simulation ---" << endl;
-    cout << "Servers active at end: " << lb.NumActiveServers() << endl;
+    cout << "Servers currently-processing at end: " << numServers - lb.NumFreeServers() << endl;
     cout << "Servers free at end: " << lb.NumFreeServers() << endl;
+    cout << "Servers active at end: " << lb.NumActiveServers() << endl;
     cout << "Servers deactivated at end: " << numServers - lb.NumActiveServers() << endl;
-    cout << "Total requests processed: " << lb.requestsProcessed << endl;
+    cout << "Total requests processed by servers: " << lb.requestsProcessed << endl;
     cout << "Total requests dropped: " << lb.requestsDropped << endl;
     cout << "Total requests completed: " << lb.requestsCompleted << endl;
     cout << "Final queue size: " << lb.requestQueue.size() << endl;
+
 }
 

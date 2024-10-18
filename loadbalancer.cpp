@@ -1,3 +1,7 @@
+/**
+ * @file loadbalancer.cpp
+ * @brief Implementation of the LoadBalancer class
+ */
 
 #include "loadbalancer.h"
 
@@ -92,6 +96,6 @@ int LoadBalancer::NumFreeServers()
 
 void LoadBalancer::Print()
 {
-    printf("Time: %6d - Active Servers: %3d - Deactivated Servers: %3d - Queue Size: %5d - Requests Processed: %6d - Requests Dropped: %6d - Requests Completed: %6d\n", currentTime, NumActiveServers(), (int) servers.size() - NumActiveServers(), (int) requestQueue.size(), requestsProcessed, requestsDropped, requestsCompleted);
+    printf("Time: %6d - Currently-Processing Servers: %3d - Active Servers: %3d - Deactivated Servers: %3d - Queue Size: %5d - Requests Processed: %6d - Requests Dropped: %6d - Requests Completed: %6d\n", currentTime, (int) servers.size() - NumFreeServers(), NumActiveServers(), (int) servers.size() - NumActiveServers(), (int) requestQueue.size(), requestsProcessed, requestsDropped, requestsCompleted);
 }
 

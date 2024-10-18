@@ -1,3 +1,8 @@
+/**
+ * @file request.cpp
+ * @brief Implementation of the Request class
+ */
+
 #include "request.h"
 
 
