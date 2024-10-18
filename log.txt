@@ -1,0 +1,1524 @@
+Number of web servers: 10
+Time to run (cycles): 10000
+Timeout to deactivate servers: 10
+Max queue size: 1000
+Range for request processing time: 1-10 cycles
+Initial queue size: 1000
+--- Begin Simulation ---
+Time:      0 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:      0 - Requests Dropped:      0 - Requests Completed:      0
+Time:      0 - Enqueued 1000 requests.
+Time:      1 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   990 - Requests Processed:     10 - Requests Dropped:      0 - Requests Completed:      0
+Time:      5 - Enqueued 17 requests.
+Time:      5 - Dropped 5 requests.
+Time:     11 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   991 - Requests Processed:     26 - Requests Dropped:      5 - Requests Completed:     16
+Time:     21 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   975 - Requests Processed:     42 - Requests Dropped:      5 - Requests Completed:     32
+Time:     31 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   960 - Requests Processed:     57 - Requests Dropped:      5 - Requests Completed:     47
+Time:     41 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   947 - Requests Processed:     70 - Requests Dropped:      5 - Requests Completed:     60
+Time:     51 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   933 - Requests Processed:     84 - Requests Dropped:      5 - Requests Completed:     74
+Time:     61 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   916 - Requests Processed:    101 - Requests Dropped:      5 - Requests Completed:     91
+Time:     71 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   899 - Requests Processed:    118 - Requests Dropped:      5 - Requests Completed:    108
+Time:     81 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   881 - Requests Processed:    136 - Requests Dropped:      5 - Requests Completed:    126
+Time:     86 - Enqueued 1 requests.
+Time:     91 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   861 - Requests Processed:    157 - Requests Dropped:      5 - Requests Completed:    147
+Time:    101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   841 - Requests Processed:    177 - Requests Dropped:      5 - Requests Completed:    167
+Time:    111 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   823 - Requests Processed:    195 - Requests Dropped:      5 - Requests Completed:    185
+Time:    121 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   806 - Requests Processed:    212 - Requests Dropped:      5 - Requests Completed:    202
+Time:    121 - Enqueued 10 requests.
+Time:    131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   796 - Requests Processed:    232 - Requests Dropped:      5 - Requests Completed:    222
+Time:    132 - Enqueued 5 requests.
+Time:    135 - Enqueued 7 requests.
+Time:    141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   795 - Requests Processed:    245 - Requests Dropped:      5 - Requests Completed:    235
+Time:    149 - Enqueued 11 requests.
+Time:    151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   787 - Requests Processed:    264 - Requests Dropped:      5 - Requests Completed:    254
+Time:    161 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   768 - Requests Processed:    283 - Requests Dropped:      5 - Requests Completed:    273
+Time:    171 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   754 - Requests Processed:    297 - Requests Dropped:      5 - Requests Completed:    287
+Time:    181 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   732 - Requests Processed:    319 - Requests Dropped:      5 - Requests Completed:    309
+Time:    187 - Enqueued 24 requests.
+Time:    191 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   738 - Requests Processed:    337 - Requests Dropped:      5 - Requests Completed:    327
+Time:    201 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   721 - Requests Processed:    354 - Requests Dropped:      5 - Requests Completed:    344
+Time:    211 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   703 - Requests Processed:    372 - Requests Dropped:      5 - Requests Completed:    362
+Time:    216 - Enqueued 19 requests.
+Time:    221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   704 - Requests Processed:    390 - Requests Dropped:      5 - Requests Completed:    380
+Time:    225 - Enqueued 30 requests.
+Time:    231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   717 - Requests Processed:    407 - Requests Dropped:      5 - Requests Completed:    397
+Time:    233 - Enqueued 2 requests.
+Time:    241 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   701 - Requests Processed:    425 - Requests Dropped:      5 - Requests Completed:    415
+Time:    251 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   679 - Requests Processed:    447 - Requests Dropped:      5 - Requests Completed:    437
+Time:    260 - Enqueued 4 requests.
+Time:    261 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   660 - Requests Processed:    470 - Requests Dropped:      5 - Requests Completed:    460
+Time:    271 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   645 - Requests Processed:    485 - Requests Dropped:      5 - Requests Completed:    475
+Time:    279 - Enqueued 3 requests.
+Time:    281 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   634 - Requests Processed:    499 - Requests Dropped:      5 - Requests Completed:    489
+Time:    291 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   617 - Requests Processed:    516 - Requests Dropped:      5 - Requests Completed:    506
+Time:    301 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   598 - Requests Processed:    535 - Requests Dropped:      5 - Requests Completed:    525
+Time:    310 - Enqueued 25 requests.
+Time:    311 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   602 - Requests Processed:    556 - Requests Dropped:      5 - Requests Completed:    546
+Time:    321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   587 - Requests Processed:    571 - Requests Dropped:      5 - Requests Completed:    561
+Time:    325 - Enqueued 6 requests.
+Time:    331 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   575 - Requests Processed:    589 - Requests Dropped:      5 - Requests Completed:    579
+Time:    341 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   558 - Requests Processed:    606 - Requests Dropped:      5 - Requests Completed:    596
+Time:    351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   539 - Requests Processed:    625 - Requests Dropped:      5 - Requests Completed:    615
+Time:    360 - Enqueued 15 requests.
+Time:    361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   538 - Requests Processed:    641 - Requests Dropped:      5 - Requests Completed:    631
+Time:    366 - Enqueued 17 requests.
+Time:    371 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   534 - Requests Processed:    662 - Requests Dropped:      5 - Requests Completed:    652
+Time:    381 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   518 - Requests Processed:    678 - Requests Dropped:      5 - Requests Completed:    668
+Time:    391 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   505 - Requests Processed:    691 - Requests Dropped:      5 - Requests Completed:    681
+Time:    401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   487 - Requests Processed:    709 - Requests Dropped:      5 - Requests Completed:    699
+Time:    403 - Enqueued 22 requests.
+Time:    411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   489 - Requests Processed:    729 - Requests Dropped:      5 - Requests Completed:    719
+Time:    420 - Enqueued 27 requests.
+Time:    421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   502 - Requests Processed:    743 - Requests Dropped:      5 - Requests Completed:    733
+Time:    431 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   485 - Requests Processed:    760 - Requests Dropped:      5 - Requests Completed:    750
+Time:    439 - Enqueued 12 requests.
+Time:    441 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   478 - Requests Processed:    779 - Requests Dropped:      5 - Requests Completed:    769
+Time:    451 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   454 - Requests Processed:    803 - Requests Dropped:      5 - Requests Completed:    793
+Time:    461 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   442 - Requests Processed:    815 - Requests Dropped:      5 - Requests Completed:    805
+Time:    470 - Enqueued 4 requests.
+Time:    471 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   429 - Requests Processed:    832 - Requests Dropped:      5 - Requests Completed:    822
+Time:    472 - Enqueued 4 requests.
+Time:    479 - Enqueued 32 requests.
+Time:    481 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   448 - Requests Processed:    849 - Requests Dropped:      5 - Requests Completed:    839
+Time:    491 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   429 - Requests Processed:    868 - Requests Dropped:      5 - Requests Completed:    858
+Time:    495 - Enqueued 17 requests.
+Time:    501 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   430 - Requests Processed:    884 - Requests Dropped:      5 - Requests Completed:    874
+Time:    511 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   409 - Requests Processed:    905 - Requests Dropped:      5 - Requests Completed:    895
+Time:    521 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   384 - Requests Processed:    930 - Requests Dropped:      5 - Requests Completed:    920
+Time:    531 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   367 - Requests Processed:    947 - Requests Dropped:      5 - Requests Completed:    937
+Time:    532 - Enqueued 6 requests.
+Time:    533 - Enqueued 18 requests.
+Time:    537 - Enqueued 17 requests.
+Time:    539 - Enqueued 14 requests.
+Time:    541 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   408 - Requests Processed:    961 - Requests Dropped:      5 - Requests Completed:    951
+Time:    543 - Enqueued 26 requests.
+Time:    546 - Enqueued 21 requests.
+Time:    551 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   437 - Requests Processed:    979 - Requests Dropped:      5 - Requests Completed:    969
+Time:    561 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   415 - Requests Processed:   1001 - Requests Dropped:      5 - Requests Completed:    991
+Time:    568 - Enqueued 14 requests.
+Time:    571 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   413 - Requests Processed:   1017 - Requests Dropped:      5 - Requests Completed:   1007
+Time:    571 - Enqueued 25 requests.
+Time:    581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   417 - Requests Processed:   1038 - Requests Dropped:      5 - Requests Completed:   1028
+Time:    591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   400 - Requests Processed:   1055 - Requests Dropped:      5 - Requests Completed:   1045
+Time:    600 - Enqueued 31 requests.
+Time:    601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   413 - Requests Processed:   1073 - Requests Dropped:      5 - Requests Completed:   1063
+Time:    610 - Enqueued 24 requests.
+Time:    611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   419 - Requests Processed:   1091 - Requests Dropped:      5 - Requests Completed:   1081
+Time:    612 - Enqueued 8 requests.
+Time:    621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   409 - Requests Processed:   1109 - Requests Dropped:      5 - Requests Completed:   1099
+Time:    631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   393 - Requests Processed:   1125 - Requests Dropped:      5 - Requests Completed:   1115
+Time:    631 - Enqueued 6 requests.
+Time:    641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   382 - Requests Processed:   1142 - Requests Dropped:      5 - Requests Completed:   1132
+Time:    651 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   369 - Requests Processed:   1155 - Requests Dropped:      5 - Requests Completed:   1145
+Time:    654 - Enqueued 9 requests.
+Time:    657 - Enqueued 32 requests.
+Time:    661 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   394 - Requests Processed:   1171 - Requests Dropped:      5 - Requests Completed:   1161
+Time:    671 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   380 - Requests Processed:   1185 - Requests Dropped:      5 - Requests Completed:   1175
+Time:    681 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   357 - Requests Processed:   1208 - Requests Dropped:      5 - Requests Completed:   1198
+Time:    681 - Enqueued 19 requests.
+Time:    691 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   358 - Requests Processed:   1226 - Requests Dropped:      5 - Requests Completed:   1216
+Time:    693 - Enqueued 17 requests.
+Time:    701 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   358 - Requests Processed:   1243 - Requests Dropped:      5 - Requests Completed:   1233
+Time:    711 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   342 - Requests Processed:   1259 - Requests Dropped:      5 - Requests Completed:   1249
+Time:    721 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   325 - Requests Processed:   1276 - Requests Dropped:      5 - Requests Completed:   1266
+Time:    722 - Enqueued 19 requests.
+Time:    731 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   324 - Requests Processed:   1296 - Requests Dropped:      5 - Requests Completed:   1286
+Time:    735 - Enqueued 15 requests.
+Time:    741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   319 - Requests Processed:   1316 - Requests Dropped:      5 - Requests Completed:   1306
+Time:    751 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   302 - Requests Processed:   1333 - Requests Dropped:      5 - Requests Completed:   1323
+Time:    753 - Enqueued 27 requests.
+Time:    754 - Enqueued 21 requests.
+Time:    760 - Enqueued 23 requests.
+Time:    761 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   358 - Requests Processed:   1348 - Requests Dropped:      5 - Requests Completed:   1338
+Time:    771 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   340 - Requests Processed:   1366 - Requests Dropped:      5 - Requests Completed:   1356
+Time:    781 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   323 - Requests Processed:   1383 - Requests Dropped:      5 - Requests Completed:   1373
+Time:    791 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   307 - Requests Processed:   1399 - Requests Dropped:      5 - Requests Completed:   1389
+Time:    801 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   291 - Requests Processed:   1415 - Requests Dropped:      5 - Requests Completed:   1405
+Time:    811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   276 - Requests Processed:   1430 - Requests Dropped:      5 - Requests Completed:   1420
+Time:    821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   255 - Requests Processed:   1451 - Requests Dropped:      5 - Requests Completed:   1441
+Time:    828 - Enqueued 16 requests.
+Time:    831 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   253 - Requests Processed:   1469 - Requests Dropped:      5 - Requests Completed:   1459
+Time:    841 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   234 - Requests Processed:   1488 - Requests Dropped:      5 - Requests Completed:   1478
+Time:    851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   214 - Requests Processed:   1508 - Requests Dropped:      5 - Requests Completed:   1498
+Time:    861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   194 - Requests Processed:   1528 - Requests Dropped:      5 - Requests Completed:   1518
+Time:    863 - Enqueued 21 requests.
+Time:    868 - Enqueued 3 requests.
+Time:    871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   198 - Requests Processed:   1548 - Requests Dropped:      5 - Requests Completed:   1538
+Time:    881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   179 - Requests Processed:   1567 - Requests Dropped:      5 - Requests Completed:   1557
+Time:    888 - Enqueued 11 requests.
+Time:    891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   174 - Requests Processed:   1583 - Requests Dropped:      5 - Requests Completed:   1573
+Time:    901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   160 - Requests Processed:   1597 - Requests Dropped:      5 - Requests Completed:   1587
+Time:    910 - Enqueued 28 requests.
+Time:    911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   167 - Requests Processed:   1618 - Requests Dropped:      5 - Requests Completed:   1608
+Time:    920 - Enqueued 2 requests.
+Time:    921 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   155 - Requests Processed:   1632 - Requests Dropped:      5 - Requests Completed:   1622
+Time:    921 - Enqueued 12 requests.
+Time:    931 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   146 - Requests Processed:   1653 - Requests Dropped:      5 - Requests Completed:   1643
+Time:    941 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   128 - Requests Processed:   1671 - Requests Dropped:      5 - Requests Completed:   1661
+Time:    951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   114 - Requests Processed:   1685 - Requests Dropped:      5 - Requests Completed:   1675
+Time:    953 - Enqueued 24 requests.
+Time:    954 - Enqueued 14 requests.
+Time:    955 - Enqueued 20 requests.
+Time:    961 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   153 - Requests Processed:   1704 - Requests Dropped:      5 - Requests Completed:   1694
+Time:    967 - Enqueued 11 requests.
+Time:    970 - Enqueued 22 requests.
+Time:    971 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   165 - Requests Processed:   1725 - Requests Dropped:      5 - Requests Completed:   1715
+Time:    973 - Enqueued 4 requests.
+Time:    981 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   156 - Requests Processed:   1738 - Requests Dropped:      5 - Requests Completed:   1728
+Time:    991 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   140 - Requests Processed:   1754 - Requests Dropped:      5 - Requests Completed:   1744
+Time:   1001 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   120 - Requests Processed:   1774 - Requests Dropped:      5 - Requests Completed:   1764
+Time:   1004 - Enqueued 19 requests.
+Time:   1011 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   125 - Requests Processed:   1788 - Requests Dropped:      5 - Requests Completed:   1778
+Time:   1018 - Enqueued 13 requests.
+Time:   1021 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   119 - Requests Processed:   1807 - Requests Dropped:      5 - Requests Completed:   1797
+Time:   1031 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    97 - Requests Processed:   1829 - Requests Dropped:      5 - Requests Completed:   1819
+Time:   1037 - Enqueued 24 requests.
+Time:   1041 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   101 - Requests Processed:   1849 - Requests Dropped:      5 - Requests Completed:   1839
+Time:   1051 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    84 - Requests Processed:   1866 - Requests Dropped:      5 - Requests Completed:   1856
+Time:   1061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    66 - Requests Processed:   1884 - Requests Dropped:      5 - Requests Completed:   1874
+Time:   1071 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    52 - Requests Processed:   1898 - Requests Dropped:      5 - Requests Completed:   1888
+Time:   1081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    30 - Requests Processed:   1920 - Requests Dropped:      5 - Requests Completed:   1910
+Time:   1081 - Enqueued 10 requests.
+Time:   1086 - Enqueued 17 requests.
+Time:   1091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    40 - Requests Processed:   1937 - Requests Dropped:      5 - Requests Completed:   1927
+Time:   1099 - Enqueued 17 requests.
+Time:   1101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    39 - Requests Processed:   1955 - Requests Dropped:      5 - Requests Completed:   1945
+Time:   1104 - Enqueued 20 requests.
+Time:   1111 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    40 - Requests Processed:   1974 - Requests Dropped:      5 - Requests Completed:   1964
+Time:   1121 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    23 - Requests Processed:   1991 - Requests Dropped:      5 - Requests Completed:   1981
+Time:   1131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   2010 - Requests Dropped:      5 - Requests Completed:   2000
+Time:   1134 - Enqueued 25 requests.
+Time:   1141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   2026 - Requests Dropped:      5 - Requests Completed:   2016
+Time:   1151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2039 - Requests Dropped:      5 - Requests Completed:   2035
+Time:   1155 - Enqueued 10 requests.
+Time:   1159 - Enqueued 25 requests.
+Time:   1161 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    20 - Requests Processed:   2054 - Requests Dropped:      5 - Requests Completed:   2044
+Time:   1171 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   2069 - Requests Dropped:      5 - Requests Completed:   2059
+Time:   1171 - Enqueued 20 requests.
+Time:   1181 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   2088 - Requests Dropped:      5 - Requests Completed:   2078
+Time:   1191 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2094 - Requests Dropped:      5 - Requests Completed:   2094
+Time:   1201 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2094 - Requests Dropped:      5 - Requests Completed:   2094
+Time:   1211 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2094 - Requests Dropped:      5 - Requests Completed:   2094
+Time:   1221 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2094 - Requests Dropped:      5 - Requests Completed:   2094
+Time:   1231 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2094 - Requests Dropped:      5 - Requests Completed:   2094
+Time:   1232 - Enqueued 15 requests.
+Time:   1235 - Enqueued 34 requests.
+Time:   1241 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    26 - Requests Processed:   2117 - Requests Dropped:      5 - Requests Completed:   2107
+Time:   1251 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   2130 - Requests Dropped:      5 - Requests Completed:   2120
+Time:   1261 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2143 - Requests Dropped:      5 - Requests Completed:   2137
+Time:   1271 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   2143 - Requests Dropped:      5 - Requests Completed:   2143
+Time:   1281 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2143 - Requests Dropped:      5 - Requests Completed:   2143
+Time:   1291 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2143 - Requests Dropped:      5 - Requests Completed:   2143
+Time:   1295 - Enqueued 22 requests.
+Time:   1301 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   2163 - Requests Dropped:      5 - Requests Completed:   2153
+Time:   1310 - Enqueued 14 requests.
+Time:   1311 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   2175 - Requests Dropped:      5 - Requests Completed:   2165
+Time:   1316 - Enqueued 5 requests.
+Time:   1321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2184 - Requests Dropped:      5 - Requests Completed:   2182
+Time:   1331 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2184 - Requests Dropped:      5 - Requests Completed:   2184
+Time:   1341 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2184 - Requests Dropped:      5 - Requests Completed:   2184
+Time:   1349 - Enqueued 31 requests.
+Time:   1351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   2196 - Requests Dropped:      5 - Requests Completed:   2186
+Time:   1361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   2210 - Requests Dropped:      5 - Requests Completed:   2200
+Time:   1371 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2215 - Requests Dropped:      5 - Requests Completed:   2212
+Time:   1371 - Enqueued 11 requests.
+Time:   1380 - Enqueued 2 requests.
+Time:   1381 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2228 - Requests Dropped:      5 - Requests Completed:   2225
+Time:   1391 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2228 - Requests Dropped:      5 - Requests Completed:   2228
+Time:   1401 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2228 - Requests Dropped:      5 - Requests Completed:   2228
+Time:   1408 - Enqueued 19 requests.
+Time:   1411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   2238 - Requests Dropped:      5 - Requests Completed:   2228
+Time:   1417 - Enqueued 7 requests.
+Time:   1421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   2253 - Requests Dropped:      5 - Requests Completed:   2243
+Time:   1431 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2254 - Requests Dropped:      5 - Requests Completed:   2253
+Time:   1441 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   2254 - Requests Dropped:      5 - Requests Completed:   2254
+Time:   1451 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2254 - Requests Dropped:      5 - Requests Completed:   2254
+Time:   1457 - Enqueued 27 requests.
+Time:   1461 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   2268 - Requests Dropped:      5 - Requests Completed:   2258
+Time:   1471 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2281 - Requests Dropped:      5 - Requests Completed:   2279
+Time:   1481 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2281 - Requests Dropped:      5 - Requests Completed:   2281
+Time:   1481 - Enqueued 16 requests.
+Time:   1491 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2297 - Requests Dropped:      5 - Requests Completed:   2295
+Time:   1500 - Enqueued 10 requests.
+Time:   1501 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2307 - Requests Dropped:      5 - Requests Completed:   2297
+Time:   1511 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2307 - Requests Dropped:      5 - Requests Completed:   2307
+Time:   1515 - Enqueued 21 requests.
+Time:   1521 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   2321 - Requests Dropped:      5 - Requests Completed:   2311
+Time:   1531 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2328 - Requests Dropped:      5 - Requests Completed:   2325
+Time:   1541 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2328 - Requests Dropped:      5 - Requests Completed:   2328
+Time:   1542 - Enqueued 9 requests.
+Time:   1551 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   2337 - Requests Dropped:      5 - Requests Completed:   2335
+Time:   1561 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2337 - Requests Dropped:      5 - Requests Completed:   2337
+Time:   1567 - Enqueued 6 requests.
+Time:   1571 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   2343 - Requests Dropped:      5 - Requests Completed:   2340
+Time:   1581 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2343 - Requests Dropped:      5 - Requests Completed:   2343
+Time:   1591 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2343 - Requests Dropped:      5 - Requests Completed:   2343
+Time:   1592 - Enqueued 34 requests.
+Time:   1601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    10 - Requests Processed:   2367 - Requests Dropped:      5 - Requests Completed:   2357
+Time:   1604 - Enqueued 9 requests.
+Time:   1611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   2384 - Requests Dropped:      5 - Requests Completed:   2374
+Time:   1621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2386 - Requests Dropped:      5 - Requests Completed:   2386
+Time:   1631 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2386 - Requests Dropped:      5 - Requests Completed:   2386
+Time:   1641 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2386 - Requests Dropped:      5 - Requests Completed:   2386
+Time:   1647 - Enqueued 12 requests.
+Time:   1651 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   2397 - Requests Dropped:      5 - Requests Completed:   2387
+Time:   1661 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2398 - Requests Dropped:      5 - Requests Completed:   2398
+Time:   1671 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2398 - Requests Dropped:      5 - Requests Completed:   2398
+Time:   1681 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2398 - Requests Dropped:      5 - Requests Completed:   2398
+Time:   1683 - Enqueued 7 requests.
+Time:   1691 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   2405 - Requests Dropped:      5 - Requests Completed:   2403
+Time:   1691 - Enqueued 11 requests.
+Time:   1701 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2416 - Requests Dropped:      5 - Requests Completed:   2413
+Time:   1711 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2416 - Requests Dropped:      5 - Requests Completed:   2416
+Time:   1716 - Enqueued 21 requests.
+Time:   1721 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   2433 - Requests Dropped:      5 - Requests Completed:   2423
+Time:   1731 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2437 - Requests Dropped:      5 - Requests Completed:   2435
+Time:   1741 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2437 - Requests Dropped:      5 - Requests Completed:   2437
+Time:   1751 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2437 - Requests Dropped:      5 - Requests Completed:   2437
+Time:   1761 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2437 - Requests Dropped:      5 - Requests Completed:   2437
+Time:   1771 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2437 - Requests Dropped:      5 - Requests Completed:   2437
+Time:   1781 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2437 - Requests Dropped:      5 - Requests Completed:   2437
+Time:   1788 - Enqueued 23 requests.
+Time:   1791 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   2448 - Requests Dropped:      5 - Requests Completed:   2438
+Time:   1793 - Enqueued 24 requests.
+Time:   1801 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    21 - Requests Processed:   2463 - Requests Dropped:      5 - Requests Completed:   2453
+Time:   1811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   2478 - Requests Dropped:      5 - Requests Completed:   2468
+Time:   1821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2484 - Requests Dropped:      5 - Requests Completed:   2484
+Time:   1831 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2484 - Requests Dropped:      5 - Requests Completed:   2484
+Time:   1841 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2484 - Requests Dropped:      5 - Requests Completed:   2484
+Time:   1845 - Enqueued 15 requests.
+Time:   1851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   2498 - Requests Dropped:      5 - Requests Completed:   2488
+Time:   1857 - Enqueued 20 requests.
+Time:   1861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   2513 - Requests Dropped:      5 - Requests Completed:   2503
+Time:   1871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2519 - Requests Dropped:      5 - Requests Completed:   2519
+Time:   1881 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2519 - Requests Dropped:      5 - Requests Completed:   2519
+Time:   1882 - Enqueued 9 requests.
+Time:   1883 - Enqueued 12 requests.
+Time:   1891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2540 - Requests Dropped:      5 - Requests Completed:   2532
+Time:   1901 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   2540 - Requests Dropped:      5 - Requests Completed:   2540
+Time:   1909 - Enqueued 5 requests.
+Time:   1911 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   2545 - Requests Dropped:      5 - Requests Completed:   2540
+Time:   1921 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   2545 - Requests Dropped:      5 - Requests Completed:   2545
+Time:   1931 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2545 - Requests Dropped:      5 - Requests Completed:   2545
+Time:   1937 - Enqueued 5 requests.
+Time:   1941 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   2550 - Requests Dropped:      5 - Requests Completed:   2549
+Time:   1944 - Enqueued 9 requests.
+Time:   1949 - Enqueued 20 requests.
+Time:   1951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    14 - Requests Processed:   2565 - Requests Dropped:      5 - Requests Completed:   2555
+Time:   1961 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2579 - Requests Dropped:      5 - Requests Completed:   2572
+Time:   1971 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   2579 - Requests Dropped:      5 - Requests Completed:   2579
+Time:   1981 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2579 - Requests Dropped:      5 - Requests Completed:   2579
+Time:   1991 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2579 - Requests Dropped:      5 - Requests Completed:   2579
+Time:   1997 - Enqueued 29 requests.
+Time:   2001 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   2595 - Requests Dropped:      5 - Requests Completed:   2585
+Time:   2011 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2601
+Time:   2021 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2031 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2041 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2051 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2061 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2071 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2081 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2608 - Requests Dropped:      5 - Requests Completed:   2608
+Time:   2085 - Enqueued 15 requests.
+Time:   2091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   2622 - Requests Dropped:      5 - Requests Completed:   2612
+Time:   2101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2623 - Requests Dropped:      5 - Requests Completed:   2623
+Time:   2111 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2623 - Requests Dropped:      5 - Requests Completed:   2623
+Time:   2121 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2623 - Requests Dropped:      5 - Requests Completed:   2623
+Time:   2131 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2623 - Requests Dropped:      5 - Requests Completed:   2623
+Time:   2135 - Enqueued 24 requests.
+Time:   2141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   2640 - Requests Dropped:      5 - Requests Completed:   2630
+Time:   2151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2647 - Requests Dropped:      5 - Requests Completed:   2645
+Time:   2161 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2647 - Requests Dropped:      5 - Requests Completed:   2647
+Time:   2171 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2647 - Requests Dropped:      5 - Requests Completed:   2647
+Time:   2181 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2647 - Requests Dropped:      5 - Requests Completed:   2647
+Time:   2182 - Enqueued 12 requests.
+Time:   2191 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2659 - Requests Dropped:      5 - Requests Completed:   2658
+Time:   2201 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   2659 - Requests Dropped:      5 - Requests Completed:   2659
+Time:   2211 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2659 - Requests Dropped:      5 - Requests Completed:   2659
+Time:   2216 - Enqueued 15 requests.
+Time:   2221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   2673 - Requests Dropped:      5 - Requests Completed:   2663
+Time:   2231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2674 - Requests Dropped:      5 - Requests Completed:   2674
+Time:   2241 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2674 - Requests Dropped:      5 - Requests Completed:   2674
+Time:   2251 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2674 - Requests Dropped:      5 - Requests Completed:   2674
+Time:   2253 - Enqueued 2 requests.
+Time:   2261 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2676 - Requests Dropped:      5 - Requests Completed:   2675
+Time:   2271 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   2676 - Requests Dropped:      5 - Requests Completed:   2676
+Time:   2281 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2676 - Requests Dropped:      5 - Requests Completed:   2676
+Time:   2283 - Enqueued 5 requests.
+Time:   2286 - Enqueued 18 requests.
+Time:   2289 - Enqueued 10 requests.
+Time:   2291 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   2692 - Requests Dropped:      5 - Requests Completed:   2682
+Time:   2301 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   2708 - Requests Dropped:      5 - Requests Completed:   2698
+Time:   2307 - Enqueued 23 requests.
+Time:   2308 - Enqueued 7 requests.
+Time:   2311 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   2721 - Requests Dropped:      5 - Requests Completed:   2711
+Time:   2321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   2734 - Requests Dropped:      5 - Requests Completed:   2724
+Time:   2325 - Enqueued 2 requests.
+Time:   2331 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2741 - Requests Dropped:      5 - Requests Completed:   2738
+Time:   2341 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2741 - Requests Dropped:      5 - Requests Completed:   2741
+Time:   2345 - Enqueued 11 requests.
+Time:   2351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2746
+Time:   2361 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2371 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2381 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2391 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2401 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2411 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2421 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2752 - Requests Dropped:      5 - Requests Completed:   2752
+Time:   2423 - Enqueued 17 requests.
+Time:   2431 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2769 - Requests Dropped:      5 - Requests Completed:   2762
+Time:   2441 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   2769 - Requests Dropped:      5 - Requests Completed:   2769
+Time:   2444 - Enqueued 5 requests.
+Time:   2451 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   2774 - Requests Dropped:      5 - Requests Completed:   2771
+Time:   2461 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2774 - Requests Dropped:      5 - Requests Completed:   2774
+Time:   2465 - Enqueued 12 requests.
+Time:   2471 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2786 - Requests Dropped:      5 - Requests Completed:   2780
+Time:   2475 - Enqueued 12 requests.
+Time:   2480 - Enqueued 11 requests.
+Time:   2481 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    10 - Requests Processed:   2799 - Requests Dropped:      5 - Requests Completed:   2789
+Time:   2491 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2809 - Requests Dropped:      5 - Requests Completed:   2806
+Time:   2501 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   2809 - Requests Dropped:      5 - Requests Completed:   2809
+Time:   2511 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2809 - Requests Dropped:      5 - Requests Completed:   2809
+Time:   2521 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2809 - Requests Dropped:      5 - Requests Completed:   2809
+Time:   2531 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2809 - Requests Dropped:      5 - Requests Completed:   2809
+Time:   2531 - Enqueued 31 requests.
+Time:   2541 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   2835 - Requests Dropped:      5 - Requests Completed:   2825
+Time:   2551 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2840 - Requests Dropped:      5 - Requests Completed:   2839
+Time:   2554 - Enqueued 12 requests.
+Time:   2561 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2852 - Requests Dropped:      5 - Requests Completed:   2848
+Time:   2571 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   2852 - Requests Dropped:      5 - Requests Completed:   2852
+Time:   2576 - Enqueued 9 requests.
+Time:   2581 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   2861 - Requests Dropped:      5 - Requests Completed:   2856
+Time:   2589 - Enqueued 11 requests.
+Time:   2591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2872 - Requests Dropped:      5 - Requests Completed:   2863
+Time:   2601 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   2872 - Requests Dropped:      5 - Requests Completed:   2872
+Time:   2601 - Enqueued 5 requests.
+Time:   2611 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   2877 - Requests Dropped:      5 - Requests Completed:   2877
+Time:   2621 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2877 - Requests Dropped:      5 - Requests Completed:   2877
+Time:   2631 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2877 - Requests Dropped:      5 - Requests Completed:   2877
+Time:   2641 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2877 - Requests Dropped:      5 - Requests Completed:   2877
+Time:   2651 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2877 - Requests Dropped:      5 - Requests Completed:   2877
+Time:   2654 - Enqueued 10 requests.
+Time:   2661 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2887 - Requests Dropped:      5 - Requests Completed:   2882
+Time:   2671 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   2887 - Requests Dropped:      5 - Requests Completed:   2887
+Time:   2681 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2887 - Requests Dropped:      5 - Requests Completed:   2887
+Time:   2683 - Enqueued 21 requests.
+Time:   2691 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   2903 - Requests Dropped:      5 - Requests Completed:   2893
+Time:   2701 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2908 - Requests Dropped:      5 - Requests Completed:   2906
+Time:   2711 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   2908 - Requests Dropped:      5 - Requests Completed:   2908
+Time:   2721 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   2908 - Requests Dropped:      5 - Requests Completed:   2908
+Time:   2728 - Enqueued 32 requests.
+Time:   2731 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   2921 - Requests Dropped:      5 - Requests Completed:   2911
+Time:   2741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2940 - Requests Dropped:      5 - Requests Completed:   2931
+Time:   2751 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   2940 - Requests Dropped:      5 - Requests Completed:   2940
+Time:   2751 - Enqueued 15 requests.
+Time:   2752 - Enqueued 16 requests.
+Time:   2761 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   2958 - Requests Dropped:      5 - Requests Completed:   2948
+Time:   2771 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2971 - Requests Dropped:      5 - Requests Completed:   2966
+Time:   2775 - Enqueued 6 requests.
+Time:   2777 - Enqueued 11 requests.
+Time:   2781 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   2986 - Requests Dropped:      5 - Requests Completed:   2976
+Time:   2791 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   2988 - Requests Dropped:      5 - Requests Completed:   2988
+Time:   2791 - Enqueued 22 requests.
+Time:   2801 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3010 - Requests Dropped:      5 - Requests Completed:   3004
+Time:   2803 - Enqueued 6 requests.
+Time:   2811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3016 - Requests Dropped:      5 - Requests Completed:   3014
+Time:   2812 - Enqueued 10 requests.
+Time:   2821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3026 - Requests Dropped:      5 - Requests Completed:   3023
+Time:   2831 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   3026 - Requests Dropped:      5 - Requests Completed:   3026
+Time:   2833 - Enqueued 28 requests.
+Time:   2834 - Enqueued 19 requests.
+Time:   2841 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    26 - Requests Processed:   3047 - Requests Dropped:      5 - Requests Completed:   3037
+Time:   2847 - Enqueued 6 requests.
+Time:   2851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    10 - Requests Processed:   3069 - Requests Dropped:      5 - Requests Completed:   3059
+Time:   2861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3079 - Requests Dropped:      5 - Requests Completed:   3076
+Time:   2861 - Enqueued 12 requests.
+Time:   2866 - Enqueued 29 requests.
+Time:   2871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    15 - Requests Processed:   3105 - Requests Dropped:      5 - Requests Completed:   3095
+Time:   2881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3120 - Requests Dropped:      5 - Requests Completed:   3115
+Time:   2891 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   3120 - Requests Dropped:      5 - Requests Completed:   3120
+Time:   2897 - Enqueued 13 requests.
+Time:   2901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3133 - Requests Dropped:      5 - Requests Completed:   3123
+Time:   2911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3133 - Requests Dropped:      5 - Requests Completed:   3133
+Time:   2911 - Enqueued 18 requests.
+Time:   2921 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3151 - Requests Dropped:      5 - Requests Completed:   3144
+Time:   2931 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   3151 - Requests Dropped:      5 - Requests Completed:   3151
+Time:   2935 - Enqueued 16 requests.
+Time:   2941 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   3166 - Requests Dropped:      5 - Requests Completed:   3156
+Time:   2947 - Enqueued 14 requests.
+Time:   2951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3181 - Requests Dropped:      5 - Requests Completed:   3173
+Time:   2961 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   3181 - Requests Dropped:      5 - Requests Completed:   3181
+Time:   2968 - Enqueued 8 requests.
+Time:   2971 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   3189 - Requests Dropped:      5 - Requests Completed:   3183
+Time:   2981 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   3189 - Requests Dropped:      5 - Requests Completed:   3189
+Time:   2985 - Enqueued 30 requests.
+Time:   2991 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   3206 - Requests Dropped:      5 - Requests Completed:   3196
+Time:   3001 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3219 - Requests Dropped:      5 - Requests Completed:   3214
+Time:   3011 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   3219 - Requests Dropped:      5 - Requests Completed:   3219
+Time:   3021 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3219 - Requests Dropped:      5 - Requests Completed:   3219
+Time:   3031 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3219 - Requests Dropped:      5 - Requests Completed:   3219
+Time:   3034 - Enqueued 23 requests.
+Time:   3041 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   3235 - Requests Dropped:      5 - Requests Completed:   3225
+Time:   3045 - Enqueued 29 requests.
+Time:   3051 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    20 - Requests Processed:   3251 - Requests Dropped:      5 - Requests Completed:   3241
+Time:   3061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   3270 - Requests Dropped:      5 - Requests Completed:   3260
+Time:   3071 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3271 - Requests Dropped:      5 - Requests Completed:   3271
+Time:   3077 - Enqueued 13 requests.
+Time:   3081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3284 - Requests Dropped:      5 - Requests Completed:   3276
+Time:   3091 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   3284 - Requests Dropped:      5 - Requests Completed:   3284
+Time:   3092 - Enqueued 37 requests.
+Time:   3101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   3303 - Requests Dropped:      5 - Requests Completed:   3293
+Time:   3111 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3321 - Requests Dropped:      5 - Requests Completed:   3313
+Time:   3121 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   3321 - Requests Dropped:      5 - Requests Completed:   3321
+Time:   3127 - Enqueued 24 requests.
+Time:   3131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   3334 - Requests Dropped:      5 - Requests Completed:   3324
+Time:   3138 - Enqueued 10 requests.
+Time:   3139 - Enqueued 16 requests.
+Time:   3141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    24 - Requests Processed:   3347 - Requests Dropped:      5 - Requests Completed:   3337
+Time:   3151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   3365 - Requests Dropped:      5 - Requests Completed:   3355
+Time:   3159 - Enqueued 19 requests.
+Time:   3161 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   3379 - Requests Dropped:      5 - Requests Completed:   3369
+Time:   3168 - Enqueued 1 requests.
+Time:   3171 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3391 - Requests Dropped:      5 - Requests Completed:   3386
+Time:   3181 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   3391 - Requests Dropped:      5 - Requests Completed:   3391
+Time:   3191 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3391 - Requests Dropped:      5 - Requests Completed:   3391
+Time:   3191 - Enqueued 18 requests.
+Time:   3193 - Enqueued 26 requests.
+Time:   3195 - Enqueued 9 requests.
+Time:   3201 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    29 - Requests Processed:   3415 - Requests Dropped:      5 - Requests Completed:   3405
+Time:   3202 - Enqueued 16 requests.
+Time:   3205 - Enqueued 16 requests.
+Time:   3207 - Enqueued 17 requests.
+Time:   3211 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    64 - Requests Processed:   3429 - Requests Dropped:      5 - Requests Completed:   3419
+Time:   3211 - Enqueued 31 requests.
+Time:   3221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    79 - Requests Processed:   3445 - Requests Dropped:      5 - Requests Completed:   3435
+Time:   3230 - Enqueued 15 requests.
+Time:   3231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    75 - Requests Processed:   3464 - Requests Dropped:      5 - Requests Completed:   3454
+Time:   3241 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    54 - Requests Processed:   3485 - Requests Dropped:      5 - Requests Completed:   3475
+Time:   3251 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    36 - Requests Processed:   3503 - Requests Dropped:      5 - Requests Completed:   3493
+Time:   3259 - Enqueued 19 requests.
+Time:   3261 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    34 - Requests Processed:   3524 - Requests Dropped:      5 - Requests Completed:   3514
+Time:   3271 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    14 - Requests Processed:   3544 - Requests Dropped:      5 - Requests Completed:   3534
+Time:   3281 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3558 - Requests Dropped:      5 - Requests Completed:   3555
+Time:   3291 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   3558 - Requests Dropped:      5 - Requests Completed:   3558
+Time:   3301 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3558 - Requests Dropped:      5 - Requests Completed:   3558
+Time:   3311 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3558 - Requests Dropped:      5 - Requests Completed:   3558
+Time:   3321 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3558 - Requests Dropped:      5 - Requests Completed:   3558
+Time:   3331 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3558 - Requests Dropped:      5 - Requests Completed:   3558
+Time:   3334 - Enqueued 12 requests.
+Time:   3338 - Enqueued 29 requests.
+Time:   3341 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    24 - Requests Processed:   3575 - Requests Dropped:      5 - Requests Completed:   3565
+Time:   3346 - Enqueued 28 requests.
+Time:   3351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    27 - Requests Processed:   3600 - Requests Dropped:      5 - Requests Completed:   3590
+Time:   3361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    15 - Requests Processed:   3612 - Requests Dropped:      5 - Requests Completed:   3602
+Time:   3371 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3627 - Requests Dropped:      5 - Requests Completed:   3622
+Time:   3381 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   3627 - Requests Dropped:      5 - Requests Completed:   3627
+Time:   3388 - Enqueued 8 requests.
+Time:   3391 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   3635 - Requests Dropped:      5 - Requests Completed:   3629
+Time:   3401 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   3635 - Requests Dropped:      5 - Requests Completed:   3635
+Time:   3406 - Enqueued 7 requests.
+Time:   3411 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   3642 - Requests Dropped:      5 - Requests Completed:   3638
+Time:   3411 - Enqueued 1 requests.
+Time:   3421 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   3643 - Requests Dropped:      5 - Requests Completed:   3643
+Time:   3431 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3643 - Requests Dropped:      5 - Requests Completed:   3643
+Time:   3439 - Enqueued 18 requests.
+Time:   3441 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   3653 - Requests Dropped:      5 - Requests Completed:   3643
+Time:   3451 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3661 - Requests Dropped:      5 - Requests Completed:   3657
+Time:   3451 - Enqueued 22 requests.
+Time:   3461 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3683 - Requests Dropped:      5 - Requests Completed:   3673
+Time:   3471 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3683 - Requests Dropped:      5 - Requests Completed:   3683
+Time:   3481 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3683 - Requests Dropped:      5 - Requests Completed:   3683
+Time:   3491 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3683 - Requests Dropped:      5 - Requests Completed:   3683
+Time:   3501 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3683 - Requests Dropped:      5 - Requests Completed:   3683
+Time:   3511 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3683 - Requests Dropped:      5 - Requests Completed:   3683
+Time:   3515 - Enqueued 7 requests.
+Time:   3521 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   3690 - Requests Dropped:      5 - Requests Completed:   3685
+Time:   3531 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   3690 - Requests Dropped:      5 - Requests Completed:   3690
+Time:   3541 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3690 - Requests Dropped:      5 - Requests Completed:   3690
+Time:   3551 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3690 - Requests Dropped:      5 - Requests Completed:   3690
+Time:   3561 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3690 - Requests Dropped:      5 - Requests Completed:   3690
+Time:   3565 - Enqueued 23 requests.
+Time:   3568 - Enqueued 7 requests.
+Time:   3571 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   3708 - Requests Dropped:      5 - Requests Completed:   3698
+Time:   3572 - Enqueued 9 requests.
+Time:   3581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3729 - Requests Dropped:      5 - Requests Completed:   3720
+Time:   3591 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   3729 - Requests Dropped:      5 - Requests Completed:   3729
+Time:   3595 - Enqueued 12 requests.
+Time:   3601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3741 - Requests Dropped:      5 - Requests Completed:   3731
+Time:   3606 - Enqueued 18 requests.
+Time:   3611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   3757 - Requests Dropped:      5 - Requests Completed:   3747
+Time:   3621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3759 - Requests Dropped:      5 - Requests Completed:   3759
+Time:   3631 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3759 - Requests Dropped:      5 - Requests Completed:   3759
+Time:   3632 - Enqueued 1 requests.
+Time:   3634 - Enqueued 8 requests.
+Time:   3641 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   3768 - Requests Dropped:      5 - Requests Completed:   3764
+Time:   3651 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   3768 - Requests Dropped:      5 - Requests Completed:   3768
+Time:   3661 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3768 - Requests Dropped:      5 - Requests Completed:   3768
+Time:   3671 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3768 - Requests Dropped:      5 - Requests Completed:   3768
+Time:   3681 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3768 - Requests Dropped:      5 - Requests Completed:   3768
+Time:   3690 - Enqueued 15 requests.
+Time:   3691 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   3778 - Requests Dropped:      5 - Requests Completed:   3768
+Time:   3691 - Enqueued 6 requests.
+Time:   3701 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3789 - Requests Dropped:      5 - Requests Completed:   3782
+Time:   3711 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   3789 - Requests Dropped:      5 - Requests Completed:   3789
+Time:   3721 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3789 - Requests Dropped:      5 - Requests Completed:   3789
+Time:   3731 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3789 - Requests Dropped:      5 - Requests Completed:   3789
+Time:   3734 - Enqueued 12 requests.
+Time:   3737 - Enqueued 22 requests.
+Time:   3741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    15 - Requests Processed:   3808 - Requests Dropped:      5 - Requests Completed:   3798
+Time:   3751 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3823 - Requests Dropped:      5 - Requests Completed:   3816
+Time:   3758 - Enqueued 24 requests.
+Time:   3761 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   3834 - Requests Dropped:      5 - Requests Completed:   3824
+Time:   3765 - Enqueued 10 requests.
+Time:   3771 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   3846 - Requests Dropped:      5 - Requests Completed:   3836
+Time:   3781 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   3857 - Requests Dropped:      5 - Requests Completed:   3852
+Time:   3791 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   3857 - Requests Dropped:      5 - Requests Completed:   3857
+Time:   3801 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   3857 - Requests Dropped:      5 - Requests Completed:   3857
+Time:   3809 - Enqueued 10 requests.
+Time:   3810 - Enqueued 18 requests.
+Time:   3811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   3867 - Requests Dropped:      5 - Requests Completed:   3857
+Time:   3813 - Enqueued 27 requests.
+Time:   3816 - Enqueued 20 requests.
+Time:   3818 - Enqueued 31 requests.
+Time:   3819 - Enqueued 34 requests.
+Time:   3821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   112 - Requests Processed:   3885 - Requests Dropped:      5 - Requests Completed:   3875
+Time:   3825 - Enqueued 11 requests.
+Time:   3831 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   105 - Requests Processed:   3903 - Requests Dropped:      5 - Requests Completed:   3893
+Time:   3841 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    84 - Requests Processed:   3924 - Requests Dropped:      5 - Requests Completed:   3914
+Time:   3845 - Enqueued 26 requests.
+Time:   3846 - Enqueued 22 requests.
+Time:   3851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   116 - Requests Processed:   3940 - Requests Dropped:      5 - Requests Completed:   3930
+Time:   3851 - Enqueued 17 requests.
+Time:   3856 - Enqueued 22 requests.
+Time:   3861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   139 - Requests Processed:   3956 - Requests Dropped:      5 - Requests Completed:   3946
+Time:   3871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   119 - Requests Processed:   3976 - Requests Dropped:      5 - Requests Completed:   3966
+Time:   3881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   102 - Requests Processed:   3993 - Requests Dropped:      5 - Requests Completed:   3983
+Time:   3881 - Enqueued 4 requests.
+Time:   3891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    88 - Requests Processed:   4011 - Requests Dropped:      5 - Requests Completed:   4001
+Time:   3892 - Enqueued 2 requests.
+Time:   3893 - Enqueued 12 requests.
+Time:   3897 - Enqueued 19 requests.
+Time:   3901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   101 - Requests Processed:   4031 - Requests Dropped:      5 - Requests Completed:   4021
+Time:   3902 - Enqueued 18 requests.
+Time:   3907 - Enqueued 29 requests.
+Time:   3911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   128 - Requests Processed:   4051 - Requests Dropped:      5 - Requests Completed:   4041
+Time:   3921 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   114 - Requests Processed:   4065 - Requests Dropped:      5 - Requests Completed:   4055
+Time:   3925 - Enqueued 6 requests.
+Time:   3931 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   106 - Requests Processed:   4079 - Requests Dropped:      5 - Requests Completed:   4069
+Time:   3941 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    86 - Requests Processed:   4099 - Requests Dropped:      5 - Requests Completed:   4089
+Time:   3949 - Enqueued 37 requests.
+Time:   3951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   102 - Requests Processed:   4120 - Requests Dropped:      5 - Requests Completed:   4110
+Time:   3959 - Enqueued 19 requests.
+Time:   3961 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:   104 - Requests Processed:   4137 - Requests Dropped:      5 - Requests Completed:   4127
+Time:   3971 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    90 - Requests Processed:   4151 - Requests Dropped:      5 - Requests Completed:   4141
+Time:   3976 - Enqueued 21 requests.
+Time:   3981 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    90 - Requests Processed:   4172 - Requests Dropped:      5 - Requests Completed:   4162
+Time:   3991 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    72 - Requests Processed:   4190 - Requests Dropped:      5 - Requests Completed:   4180
+Time:   3991 - Enqueued 31 requests.
+Time:   4001 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    87 - Requests Processed:   4206 - Requests Dropped:      5 - Requests Completed:   4196
+Time:   4006 - Enqueued 6 requests.
+Time:   4011 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    74 - Requests Processed:   4225 - Requests Dropped:      5 - Requests Completed:   4215
+Time:   4021 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    54 - Requests Processed:   4245 - Requests Dropped:      5 - Requests Completed:   4235
+Time:   4024 - Enqueued 10 requests.
+Time:   4031 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    45 - Requests Processed:   4264 - Requests Dropped:      5 - Requests Completed:   4254
+Time:   4041 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    30 - Requests Processed:   4279 - Requests Dropped:      5 - Requests Completed:   4269
+Time:   4042 - Enqueued 31 requests.
+Time:   4051 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    42 - Requests Processed:   4298 - Requests Dropped:      5 - Requests Completed:   4288
+Time:   4057 - Enqueued 12 requests.
+Time:   4061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    38 - Requests Processed:   4314 - Requests Dropped:      5 - Requests Completed:   4304
+Time:   4066 - Enqueued 9 requests.
+Time:   4071 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    29 - Requests Processed:   4332 - Requests Dropped:      5 - Requests Completed:   4322
+Time:   4081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    14 - Requests Processed:   4347 - Requests Dropped:      5 - Requests Completed:   4337
+Time:   4091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4361 - Requests Dropped:      5 - Requests Completed:   4351
+Time:   4097 - Enqueued 15 requests.
+Time:   4098 - Enqueued 7 requests.
+Time:   4101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    10 - Requests Processed:   4373 - Requests Dropped:      5 - Requests Completed:   4363
+Time:   4102 - Enqueued 6 requests.
+Time:   4104 - Enqueued 20 requests.
+Time:   4111 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   4391 - Requests Dropped:      5 - Requests Completed:   4381
+Time:   4118 - Enqueued 18 requests.
+Time:   4121 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    10 - Requests Processed:   4417 - Requests Dropped:      5 - Requests Completed:   4407
+Time:   4131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4427 - Requests Dropped:      5 - Requests Completed:   4422
+Time:   4141 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   4427 - Requests Dropped:      5 - Requests Completed:   4427
+Time:   4149 - Enqueued 8 requests.
+Time:   4151 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   4435 - Requests Dropped:      5 - Requests Completed:   4427
+Time:   4161 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   4435 - Requests Dropped:      5 - Requests Completed:   4435
+Time:   4169 - Enqueued 15 requests.
+Time:   4171 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   4445 - Requests Dropped:      5 - Requests Completed:   4435
+Time:   4181 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4450 - Requests Dropped:      5 - Requests Completed:   4448
+Time:   4191 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   4450 - Requests Dropped:      5 - Requests Completed:   4450
+Time:   4195 - Enqueued 24 requests.
+Time:   4201 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   4465 - Requests Dropped:      5 - Requests Completed:   4455
+Time:   4204 - Enqueued 16 requests.
+Time:   4206 - Enqueued 5 requests.
+Time:   4211 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   4483 - Requests Dropped:      5 - Requests Completed:   4473
+Time:   4214 - Enqueued 6 requests.
+Time:   4220 - Enqueued 10 requests.
+Time:   4221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   4498 - Requests Dropped:      5 - Requests Completed:   4488
+Time:   4231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4511 - Requests Dropped:      5 - Requests Completed:   4506
+Time:   4231 - Enqueued 1 requests.
+Time:   4241 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   4512 - Requests Dropped:      5 - Requests Completed:   4512
+Time:   4251 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4512 - Requests Dropped:      5 - Requests Completed:   4512
+Time:   4255 - Enqueued 11 requests.
+Time:   4261 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4523 - Requests Dropped:      5 - Requests Completed:   4519
+Time:   4266 - Enqueued 27 requests.
+Time:   4271 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   4537 - Requests Dropped:      5 - Requests Completed:   4527
+Time:   4281 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4550 - Requests Dropped:      5 - Requests Completed:   4545
+Time:   4291 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   4550 - Requests Dropped:      5 - Requests Completed:   4550
+Time:   4295 - Enqueued 51 requests.
+Time:   4301 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    34 - Requests Processed:   4567 - Requests Dropped:      5 - Requests Completed:   4557
+Time:   4311 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    15 - Requests Processed:   4586 - Requests Dropped:      5 - Requests Completed:   4576
+Time:   4321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4601 - Requests Dropped:      5 - Requests Completed:   4596
+Time:   4331 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   4601 - Requests Dropped:      5 - Requests Completed:   4601
+Time:   4333 - Enqueued 8 requests.
+Time:   4341 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   4609 - Requests Dropped:      5 - Requests Completed:   4606
+Time:   4351 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   4609 - Requests Dropped:      5 - Requests Completed:   4609
+Time:   4361 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4609 - Requests Dropped:      5 - Requests Completed:   4609
+Time:   4371 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4609 - Requests Dropped:      5 - Requests Completed:   4609
+Time:   4372 - Enqueued 7 requests.
+Time:   4374 - Enqueued 10 requests.
+Time:   4381 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4626 - Requests Dropped:      5 - Requests Completed:   4623
+Time:   4383 - Enqueued 21 requests.
+Time:   4388 - Enqueued 5 requests.
+Time:   4390 - Enqueued 10 requests.
+Time:   4391 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   4645 - Requests Dropped:      5 - Requests Completed:   4635
+Time:   4401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4662 - Requests Dropped:      5 - Requests Completed:   4655
+Time:   4406 - Enqueued 33 requests.
+Time:   4411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   4678 - Requests Dropped:      5 - Requests Completed:   4668
+Time:   4421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4695 - Requests Dropped:      5 - Requests Completed:   4687
+Time:   4431 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   4695 - Requests Dropped:      5 - Requests Completed:   4695
+Time:   4434 - Enqueued 13 requests.
+Time:   4441 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4708 - Requests Dropped:      5 - Requests Completed:   4704
+Time:   4451 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   4708 - Requests Dropped:      5 - Requests Completed:   4708
+Time:   4461 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4708 - Requests Dropped:      5 - Requests Completed:   4708
+Time:   4464 - Enqueued 20 requests.
+Time:   4471 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   4724 - Requests Dropped:      5 - Requests Completed:   4714
+Time:   4474 - Enqueued 15 requests.
+Time:   4481 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   4741 - Requests Dropped:      5 - Requests Completed:   4731
+Time:   4488 - Enqueued 32 requests.
+Time:   4491 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    22 - Requests Processed:   4753 - Requests Dropped:      5 - Requests Completed:   4743
+Time:   4501 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   4768 - Requests Dropped:      5 - Requests Completed:   4758
+Time:   4511 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4775 - Requests Dropped:      5 - Requests Completed:   4771
+Time:   4519 - Enqueued 10 requests.
+Time:   4521 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4785 - Requests Dropped:      5 - Requests Completed:   4776
+Time:   4522 - Enqueued 11 requests.
+Time:   4531 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4796 - Requests Dropped:      5 - Requests Completed:   4790
+Time:   4541 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   4796 - Requests Dropped:      5 - Requests Completed:   4796
+Time:   4549 - Enqueued 20 requests.
+Time:   4551 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   4807 - Requests Dropped:      5 - Requests Completed:   4797
+Time:   4552 - Enqueued 13 requests.
+Time:   4558 - Enqueued 9 requests.
+Time:   4561 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    16 - Requests Processed:   4822 - Requests Dropped:      5 - Requests Completed:   4812
+Time:   4566 - Enqueued 23 requests.
+Time:   4571 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   4848 - Requests Dropped:      5 - Requests Completed:   4838
+Time:   4578 - Enqueued 26 requests.
+Time:   4581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    24 - Requests Processed:   4863 - Requests Dropped:      5 - Requests Completed:   4853
+Time:   4584 - Enqueued 36 requests.
+Time:   4589 - Enqueued 20 requests.
+Time:   4591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    63 - Requests Processed:   4880 - Requests Dropped:      5 - Requests Completed:   4870
+Time:   4595 - Enqueued 9 requests.
+Time:   4601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    57 - Requests Processed:   4895 - Requests Dropped:      5 - Requests Completed:   4885
+Time:   4611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    36 - Requests Processed:   4916 - Requests Dropped:      5 - Requests Completed:   4906
+Time:   4621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   4933 - Requests Dropped:      5 - Requests Completed:   4923
+Time:   4631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   4951 - Requests Dropped:      5 - Requests Completed:   4941
+Time:   4634 - Enqueued 10 requests.
+Time:   4641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   4962 - Requests Dropped:      5 - Requests Completed:   4955
+Time:   4651 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   4962 - Requests Dropped:      5 - Requests Completed:   4962
+Time:   4658 - Enqueued 4 requests.
+Time:   4661 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4962
+Time:   4671 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4681 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4691 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4701 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4711 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4721 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4731 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4966 - Requests Dropped:      5 - Requests Completed:   4966
+Time:   4737 - Enqueued 6 requests.
+Time:   4741 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   4972 - Requests Dropped:      5 - Requests Completed:   4967
+Time:   4751 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   4972 - Requests Dropped:      5 - Requests Completed:   4972
+Time:   4754 - Enqueued 8 requests.
+Time:   4761 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   4980 - Requests Dropped:      5 - Requests Completed:   4978
+Time:   4771 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   4980 - Requests Dropped:      5 - Requests Completed:   4980
+Time:   4781 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   4980 - Requests Dropped:      5 - Requests Completed:   4980
+Time:   4786 - Enqueued 28 requests.
+Time:   4791 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    14 - Requests Processed:   4994 - Requests Dropped:      5 - Requests Completed:   4984
+Time:   4795 - Enqueued 11 requests.
+Time:   4801 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   5016 - Requests Dropped:      5 - Requests Completed:   5006
+Time:   4811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5019 - Requests Dropped:      5 - Requests Completed:   5019
+Time:   4818 - Enqueued 2 requests.
+Time:   4821 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   5021 - Requests Dropped:      5 - Requests Completed:   5019
+Time:   4831 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   5021 - Requests Dropped:      5 - Requests Completed:   5021
+Time:   4833 - Enqueued 11 requests.
+Time:   4841 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5032 - Requests Dropped:      5 - Requests Completed:   5029
+Time:   4851 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   5032 - Requests Dropped:      5 - Requests Completed:   5032
+Time:   4857 - Enqueued 12 requests.
+Time:   4861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5044 - Requests Dropped:      5 - Requests Completed:   5037
+Time:   4871 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   5044 - Requests Dropped:      5 - Requests Completed:   5044
+Time:   4879 - Enqueued 27 requests.
+Time:   4881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    16 - Requests Processed:   5055 - Requests Dropped:      5 - Requests Completed:   5045
+Time:   4891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   5070 - Requests Dropped:      5 - Requests Completed:   5060
+Time:   4892 - Enqueued 13 requests.
+Time:   4901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5084 - Requests Dropped:      5 - Requests Completed:   5078
+Time:   4911 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5084 - Requests Dropped:      5 - Requests Completed:   5084
+Time:   4918 - Enqueued 1 requests.
+Time:   4919 - Enqueued 3 requests.
+Time:   4921 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   5088 - Requests Dropped:      5 - Requests Completed:   5084
+Time:   4924 - Enqueued 15 requests.
+Time:   4931 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5103 - Requests Dropped:      5 - Requests Completed:   5095
+Time:   4936 - Enqueued 31 requests.
+Time:   4941 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    16 - Requests Processed:   5118 - Requests Dropped:      5 - Requests Completed:   5108
+Time:   4943 - Enqueued 26 requests.
+Time:   4948 - Enqueued 11 requests.
+Time:   4951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    37 - Requests Processed:   5134 - Requests Dropped:      5 - Requests Completed:   5124
+Time:   4959 - Enqueued 19 requests.
+Time:   4961 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    38 - Requests Processed:   5152 - Requests Dropped:      5 - Requests Completed:   5142
+Time:   4967 - Enqueued 6 requests.
+Time:   4971 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    22 - Requests Processed:   5174 - Requests Dropped:      5 - Requests Completed:   5164
+Time:   4978 - Enqueued 21 requests.
+Time:   4981 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    27 - Requests Processed:   5190 - Requests Dropped:      5 - Requests Completed:   5180
+Time:   4985 - Enqueued 3 requests.
+Time:   4991 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   5207 - Requests Dropped:      5 - Requests Completed:   5197
+Time:   5001 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5220 - Requests Dropped:      5 - Requests Completed:   5211
+Time:   5001 - Enqueued 11 requests.
+Time:   5011 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5231 - Requests Dropped:      5 - Requests Completed:   5225
+Time:   5013 - Enqueued 10 requests.
+Time:   5018 - Enqueued 14 requests.
+Time:   5021 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   5248 - Requests Dropped:      5 - Requests Completed:   5238
+Time:   5031 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5255 - Requests Dropped:      5 - Requests Completed:   5253
+Time:   5041 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   5255 - Requests Dropped:      5 - Requests Completed:   5255
+Time:   5051 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5255 - Requests Dropped:      5 - Requests Completed:   5255
+Time:   5053 - Enqueued 16 requests.
+Time:   5057 - Enqueued 8 requests.
+Time:   5061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   5276 - Requests Dropped:      5 - Requests Completed:   5266
+Time:   5071 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5279 - Requests Dropped:      5 - Requests Completed:   5278
+Time:   5081 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   5279 - Requests Dropped:      5 - Requests Completed:   5279
+Time:   5084 - Enqueued 11 requests.
+Time:   5091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5290 - Requests Dropped:      5 - Requests Completed:   5286
+Time:   5101 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   5290 - Requests Dropped:      5 - Requests Completed:   5290
+Time:   5111 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5290 - Requests Dropped:      5 - Requests Completed:   5290
+Time:   5121 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5290 - Requests Dropped:      5 - Requests Completed:   5290
+Time:   5129 - Enqueued 12 requests.
+Time:   5131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   5300 - Requests Dropped:      5 - Requests Completed:   5290
+Time:   5141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5302 - Requests Dropped:      5 - Requests Completed:   5302
+Time:   5141 - Enqueued 19 requests.
+Time:   5151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5311
+Time:   5161 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5171 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5181 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5191 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5201 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5211 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5221 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5321 - Requests Dropped:      5 - Requests Completed:   5321
+Time:   5225 - Enqueued 1 requests.
+Time:   5227 - Enqueued 6 requests.
+Time:   5231 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   5328 - Requests Dropped:      5 - Requests Completed:   5325
+Time:   5241 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   5328 - Requests Dropped:      5 - Requests Completed:   5328
+Time:   5251 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5328 - Requests Dropped:      5 - Requests Completed:   5328
+Time:   5261 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5328 - Requests Dropped:      5 - Requests Completed:   5328
+Time:   5271 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5328 - Requests Dropped:      5 - Requests Completed:   5328
+Time:   5271 - Enqueued 5 requests.
+Time:   5281 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   5333 - Requests Dropped:      5 - Requests Completed:   5332
+Time:   5291 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   5333 - Requests Dropped:      5 - Requests Completed:   5333
+Time:   5292 - Enqueued 13 requests.
+Time:   5301 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5346 - Requests Dropped:      5 - Requests Completed:   5345
+Time:   5302 - Enqueued 12 requests.
+Time:   5311 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5358 - Requests Dropped:      5 - Requests Completed:   5355
+Time:   5312 - Enqueued 9 requests.
+Time:   5319 - Enqueued 53 requests.
+Time:   5321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    45 - Requests Processed:   5375 - Requests Dropped:      5 - Requests Completed:   5365
+Time:   5326 - Enqueued 20 requests.
+Time:   5331 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    47 - Requests Processed:   5393 - Requests Dropped:      5 - Requests Completed:   5383
+Time:   5341 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    31 - Requests Processed:   5409 - Requests Dropped:      5 - Requests Completed:   5399
+Time:   5347 - Enqueued 7 requests.
+Time:   5351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   5428 - Requests Dropped:      5 - Requests Completed:   5418
+Time:   5355 - Enqueued 16 requests.
+Time:   5361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    15 - Requests Processed:   5448 - Requests Dropped:      5 - Requests Completed:   5438
+Time:   5368 - Enqueued 8 requests.
+Time:   5371 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   5466 - Requests Dropped:      5 - Requests Completed:   5456
+Time:   5372 - Enqueued 14 requests.
+Time:   5381 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5485 - Requests Dropped:      5 - Requests Completed:   5475
+Time:   5391 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5485 - Requests Dropped:      5 - Requests Completed:   5485
+Time:   5399 - Enqueued 15 requests.
+Time:   5401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   5495 - Requests Dropped:      5 - Requests Completed:   5485
+Time:   5411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5500 - Requests Dropped:      5 - Requests Completed:   5498
+Time:   5421 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   5500 - Requests Dropped:      5 - Requests Completed:   5500
+Time:   5431 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5500 - Requests Dropped:      5 - Requests Completed:   5500
+Time:   5441 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5500 - Requests Dropped:      5 - Requests Completed:   5500
+Time:   5444 - Enqueued 2 requests.
+Time:   5451 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   5502 - Requests Dropped:      5 - Requests Completed:   5502
+Time:   5456 - Enqueued 34 requests.
+Time:   5461 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   5517 - Requests Dropped:      5 - Requests Completed:   5507
+Time:   5471 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   5535 - Requests Dropped:      5 - Requests Completed:   5525
+Time:   5475 - Enqueued 27 requests.
+Time:   5476 - Enqueued 21 requests.
+Time:   5481 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    30 - Requests Processed:   5554 - Requests Dropped:      5 - Requests Completed:   5544
+Time:   5491 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   5572 - Requests Dropped:      5 - Requests Completed:   5562
+Time:   5501 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5584 - Requests Dropped:      5 - Requests Completed:   5581
+Time:   5511 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   5584 - Requests Dropped:      5 - Requests Completed:   5584
+Time:   5517 - Enqueued 7 requests.
+Time:   5521 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   5591 - Requests Dropped:      5 - Requests Completed:   5585
+Time:   5531 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5591 - Requests Dropped:      5 - Requests Completed:   5591
+Time:   5541 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5591 - Requests Dropped:      5 - Requests Completed:   5591
+Time:   5551 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5591 - Requests Dropped:      5 - Requests Completed:   5591
+Time:   5561 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5591 - Requests Dropped:      5 - Requests Completed:   5591
+Time:   5571 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5591 - Requests Dropped:      5 - Requests Completed:   5591
+Time:   5573 - Enqueued 17 requests.
+Time:   5581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5608 - Requests Dropped:      5 - Requests Completed:   5603
+Time:   5584 - Enqueued 9 requests.
+Time:   5591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5617 - Requests Dropped:      5 - Requests Completed:   5614
+Time:   5601 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   5617 - Requests Dropped:      5 - Requests Completed:   5617
+Time:   5608 - Enqueued 34 requests.
+Time:   5611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   5633 - Requests Dropped:      5 - Requests Completed:   5623
+Time:   5621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   5649 - Requests Dropped:      5 - Requests Completed:   5639
+Time:   5627 - Enqueued 12 requests.
+Time:   5631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   5662 - Requests Dropped:      5 - Requests Completed:   5652
+Time:   5641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5663 - Requests Dropped:      5 - Requests Completed:   5663
+Time:   5651 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5663 - Requests Dropped:      5 - Requests Completed:   5663
+Time:   5661 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5663 - Requests Dropped:      5 - Requests Completed:   5663
+Time:   5671 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5663 - Requests Dropped:      5 - Requests Completed:   5663
+Time:   5681 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5663 - Requests Dropped:      5 - Requests Completed:   5663
+Time:   5683 - Enqueued 5 requests.
+Time:   5691 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   5668 - Requests Dropped:      5 - Requests Completed:   5666
+Time:   5701 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   5668 - Requests Dropped:      5 - Requests Completed:   5668
+Time:   5708 - Enqueued 1 requests.
+Time:   5711 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   5669 - Requests Dropped:      5 - Requests Completed:   5668
+Time:   5721 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   5669 - Requests Dropped:      5 - Requests Completed:   5669
+Time:   5731 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5669 - Requests Dropped:      5 - Requests Completed:   5669
+Time:   5736 - Enqueued 18 requests.
+Time:   5741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   5685 - Requests Dropped:      5 - Requests Completed:   5675
+Time:   5751 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5761 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5771 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5781 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5791 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5801 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5811 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5687 - Requests Dropped:      5 - Requests Completed:   5687
+Time:   5817 - Enqueued 23 requests.
+Time:   5821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   5701 - Requests Dropped:      5 - Requests Completed:   5691
+Time:   5831 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5710 - Requests Dropped:      5 - Requests Completed:   5707
+Time:   5841 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   5710 - Requests Dropped:      5 - Requests Completed:   5710
+Time:   5851 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5710 - Requests Dropped:      5 - Requests Completed:   5710
+Time:   5859 - Enqueued 40 requests.
+Time:   5861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    29 - Requests Processed:   5721 - Requests Dropped:      5 - Requests Completed:   5711
+Time:   5871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    14 - Requests Processed:   5736 - Requests Dropped:      5 - Requests Completed:   5726
+Time:   5877 - Enqueued 9 requests.
+Time:   5880 - Enqueued 22 requests.
+Time:   5881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    29 - Requests Processed:   5752 - Requests Dropped:      5 - Requests Completed:   5742
+Time:   5881 - Enqueued 22 requests.
+Time:   5891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    31 - Requests Processed:   5772 - Requests Dropped:      5 - Requests Completed:   5762
+Time:   5901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    14 - Requests Processed:   5789 - Requests Dropped:      5 - Requests Completed:   5779
+Time:   5911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5803 - Requests Dropped:      5 - Requests Completed:   5797
+Time:   5921 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5803 - Requests Dropped:      5 - Requests Completed:   5803
+Time:   5924 - Enqueued 8 requests.
+Time:   5931 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   5811 - Requests Dropped:      5 - Requests Completed:   5805
+Time:   5941 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5811 - Requests Dropped:      5 - Requests Completed:   5811
+Time:   5951 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5811 - Requests Dropped:      5 - Requests Completed:   5811
+Time:   5961 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5811 - Requests Dropped:      5 - Requests Completed:   5811
+Time:   5964 - Enqueued 7 requests.
+Time:   5971 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   5818 - Requests Dropped:      5 - Requests Completed:   5813
+Time:   5981 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   5818 - Requests Dropped:      5 - Requests Completed:   5818
+Time:   5990 - Enqueued 6 requests.
+Time:   5991 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5824 - Requests Dropped:      5 - Requests Completed:   5818
+Time:   6001 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5824 - Requests Dropped:      5 - Requests Completed:   5824
+Time:   6011 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5824 - Requests Dropped:      5 - Requests Completed:   5824
+Time:   6014 - Enqueued 9 requests.
+Time:   6021 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   5833 - Requests Dropped:      5 - Requests Completed:   5827
+Time:   6031 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   5833 - Requests Dropped:      5 - Requests Completed:   5833
+Time:   6041 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5833 - Requests Dropped:      5 - Requests Completed:   5833
+Time:   6049 - Enqueued 15 requests.
+Time:   6051 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   5843 - Requests Dropped:      5 - Requests Completed:   5833
+Time:   6061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5848 - Requests Dropped:      5 - Requests Completed:   5848
+Time:   6068 - Enqueued 26 requests.
+Time:   6071 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    16 - Requests Processed:   5858 - Requests Dropped:      5 - Requests Completed:   5848
+Time:   6081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   5873 - Requests Dropped:      5 - Requests Completed:   5863
+Time:   6091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5874 - Requests Dropped:      5 - Requests Completed:   5874
+Time:   6099 - Enqueued 23 requests.
+Time:   6101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   5886 - Requests Dropped:      5 - Requests Completed:   5876
+Time:   6111 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5897 - Requests Dropped:      5 - Requests Completed:   5896
+Time:   6121 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   5897 - Requests Dropped:      5 - Requests Completed:   5897
+Time:   6123 - Enqueued 30 requests.
+Time:   6131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   5918 - Requests Dropped:      5 - Requests Completed:   5908
+Time:   6141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5927 - Requests Dropped:      5 - Requests Completed:   5923
+Time:   6142 - Enqueued 19 requests.
+Time:   6151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5946 - Requests Dropped:      5 - Requests Completed:   5937
+Time:   6161 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   5946 - Requests Dropped:      5 - Requests Completed:   5946
+Time:   6164 - Enqueued 14 requests.
+Time:   6171 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5960 - Requests Dropped:      5 - Requests Completed:   5955
+Time:   6181 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   5960 - Requests Dropped:      5 - Requests Completed:   5960
+Time:   6191 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   5960 - Requests Dropped:      5 - Requests Completed:   5960
+Time:   6197 - Enqueued 20 requests.
+Time:   6201 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   5973 - Requests Dropped:      5 - Requests Completed:   5963
+Time:   6211 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   5980 - Requests Dropped:      5 - Requests Completed:   5978
+Time:   6213 - Enqueued 24 requests.
+Time:   6221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   6002 - Requests Dropped:      5 - Requests Completed:   5992
+Time:   6229 - Enqueued 7 requests.
+Time:   6231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6011 - Requests Dropped:      5 - Requests Completed:   6004
+Time:   6241 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   6011 - Requests Dropped:      5 - Requests Completed:   6011
+Time:   6251 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6011 - Requests Dropped:      5 - Requests Completed:   6011
+Time:   6261 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6011 - Requests Dropped:      5 - Requests Completed:   6011
+Time:   6271 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6011 - Requests Dropped:      5 - Requests Completed:   6011
+Time:   6271 - Enqueued 2 requests.
+Time:   6276 - Enqueued 10 requests.
+Time:   6281 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6023 - Requests Dropped:      5 - Requests Completed:   6018
+Time:   6291 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   6023 - Requests Dropped:      5 - Requests Completed:   6023
+Time:   6301 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6023 - Requests Dropped:      5 - Requests Completed:   6023
+Time:   6311 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6023 - Requests Dropped:      5 - Requests Completed:   6023
+Time:   6321 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6023 - Requests Dropped:      5 - Requests Completed:   6023
+Time:   6328 - Enqueued 8 requests.
+Time:   6331 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   6031 - Requests Dropped:      5 - Requests Completed:   6025
+Time:   6341 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   6031 - Requests Dropped:      5 - Requests Completed:   6031
+Time:   6349 - Enqueued 14 requests.
+Time:   6351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   6041 - Requests Dropped:      5 - Requests Completed:   6031
+Time:   6355 - Enqueued 9 requests.
+Time:   6361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6054 - Requests Dropped:      5 - Requests Completed:   6047
+Time:   6368 - Enqueued 2 requests.
+Time:   6371 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   6056 - Requests Dropped:      5 - Requests Completed:   6054
+Time:   6381 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   6056 - Requests Dropped:      5 - Requests Completed:   6056
+Time:   6391 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6056 - Requests Dropped:      5 - Requests Completed:   6056
+Time:   6393 - Enqueued 10 requests.
+Time:   6401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6066 - Requests Dropped:      5 - Requests Completed:   6063
+Time:   6411 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   6066 - Requests Dropped:      5 - Requests Completed:   6066
+Time:   6415 - Enqueued 19 requests.
+Time:   6421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   6081 - Requests Dropped:      5 - Requests Completed:   6071
+Time:   6430 - Enqueued 8 requests.
+Time:   6431 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6093 - Requests Dropped:      5 - Requests Completed:   6084
+Time:   6439 - Enqueued 11 requests.
+Time:   6441 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6104 - Requests Dropped:      5 - Requests Completed:   6094
+Time:   6443 - Enqueued 17 requests.
+Time:   6451 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6121 - Requests Dropped:      5 - Requests Completed:   6111
+Time:   6461 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6121 - Requests Dropped:      5 - Requests Completed:   6121
+Time:   6471 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6121 - Requests Dropped:      5 - Requests Completed:   6121
+Time:   6471 - Enqueued 17 requests.
+Time:   6472 - Enqueued 10 requests.
+Time:   6481 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   6146 - Requests Dropped:      5 - Requests Completed:   6136
+Time:   6485 - Enqueued 7 requests.
+Time:   6491 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6155 - Requests Dropped:      5 - Requests Completed:   6152
+Time:   6501 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   6155 - Requests Dropped:      5 - Requests Completed:   6155
+Time:   6507 - Enqueued 39 requests.
+Time:   6511 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    27 - Requests Processed:   6167 - Requests Dropped:      5 - Requests Completed:   6157
+Time:   6521 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   6192 - Requests Dropped:      5 - Requests Completed:   6182
+Time:   6522 - Enqueued 6 requests.
+Time:   6531 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6200 - Requests Dropped:      5 - Requests Completed:   6198
+Time:   6541 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   6200 - Requests Dropped:      5 - Requests Completed:   6200
+Time:   6544 - Enqueued 37 requests.
+Time:   6551 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    21 - Requests Processed:   6216 - Requests Dropped:      5 - Requests Completed:   6206
+Time:   6561 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   6233 - Requests Dropped:      5 - Requests Completed:   6223
+Time:   6571 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6237 - Requests Dropped:      5 - Requests Completed:   6235
+Time:   6581 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   6237 - Requests Dropped:      5 - Requests Completed:   6237
+Time:   6586 - Enqueued 9 requests.
+Time:   6591 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   6246 - Requests Dropped:      5 - Requests Completed:   6241
+Time:   6601 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   6246 - Requests Dropped:      5 - Requests Completed:   6246
+Time:   6611 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6246 - Requests Dropped:      5 - Requests Completed:   6246
+Time:   6616 - Enqueued 22 requests.
+Time:   6621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   6260 - Requests Dropped:      5 - Requests Completed:   6250
+Time:   6622 - Enqueued 18 requests.
+Time:   6625 - Enqueued 20 requests.
+Time:   6631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    29 - Requests Processed:   6277 - Requests Dropped:      5 - Requests Completed:   6267
+Time:   6638 - Enqueued 4 requests.
+Time:   6641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   6293 - Requests Dropped:      5 - Requests Completed:   6283
+Time:   6651 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   6307 - Requests Dropped:      5 - Requests Completed:   6297
+Time:   6661 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6310 - Requests Dropped:      5 - Requests Completed:   6309
+Time:   6671 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   6310 - Requests Dropped:      5 - Requests Completed:   6310
+Time:   6675 - Enqueued 11 requests.
+Time:   6681 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6321 - Requests Dropped:      5 - Requests Completed:   6316
+Time:   6691 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   6321 - Requests Dropped:      5 - Requests Completed:   6321
+Time:   6701 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6321 - Requests Dropped:      5 - Requests Completed:   6321
+Time:   6711 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6321 - Requests Dropped:      5 - Requests Completed:   6321
+Time:   6715 - Enqueued 23 requests.
+Time:   6721 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   6335 - Requests Dropped:      5 - Requests Completed:   6325
+Time:   6722 - Enqueued 7 requests.
+Time:   6731 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6351 - Requests Dropped:      5 - Requests Completed:   6345
+Time:   6739 - Enqueued 27 requests.
+Time:   6741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    16 - Requests Processed:   6362 - Requests Dropped:      5 - Requests Completed:   6352
+Time:   6745 - Enqueued 12 requests.
+Time:   6748 - Enqueued 7 requests.
+Time:   6751 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    21 - Requests Processed:   6376 - Requests Dropped:      5 - Requests Completed:   6366
+Time:   6761 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   6394 - Requests Dropped:      5 - Requests Completed:   6384
+Time:   6764 - Enqueued 8 requests.
+Time:   6767 - Enqueued 14 requests.
+Time:   6771 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   6407 - Requests Dropped:      5 - Requests Completed:   6397
+Time:   6781 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6419 - Requests Dropped:      5 - Requests Completed:   6416
+Time:   6786 - Enqueued 3 requests.
+Time:   6791 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   6422 - Requests Dropped:      5 - Requests Completed:   6420
+Time:   6797 - Enqueued 29 requests.
+Time:   6801 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   6434 - Requests Dropped:      5 - Requests Completed:   6424
+Time:   6811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6451 - Requests Dropped:      5 - Requests Completed:   6443
+Time:   6821 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   6451 - Requests Dropped:      5 - Requests Completed:   6451
+Time:   6821 - Enqueued 10 requests.
+Time:   6824 - Enqueued 34 requests.
+Time:   6831 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    21 - Requests Processed:   6474 - Requests Dropped:      5 - Requests Completed:   6464
+Time:   6841 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   6492 - Requests Dropped:      5 - Requests Completed:   6482
+Time:   6851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6495 - Requests Dropped:      5 - Requests Completed:   6495
+Time:   6855 - Enqueued 18 requests.
+Time:   6861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   6512 - Requests Dropped:      5 - Requests Completed:   6502
+Time:   6870 - Enqueued 49 requests.
+Time:   6871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    39 - Requests Processed:   6523 - Requests Dropped:      5 - Requests Completed:   6513
+Time:   6881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    26 - Requests Processed:   6536 - Requests Dropped:      5 - Requests Completed:   6526
+Time:   6891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   6553 - Requests Dropped:      5 - Requests Completed:   6543
+Time:   6901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6562 - Requests Dropped:      5 - Requests Completed:   6562
+Time:   6901 - Enqueued 18 requests.
+Time:   6911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6580 - Requests Dropped:      5 - Requests Completed:   6572
+Time:   6916 - Enqueued 22 requests.
+Time:   6921 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   6596 - Requests Dropped:      5 - Requests Completed:   6586
+Time:   6921 - Enqueued 10 requests.
+Time:   6931 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6612 - Requests Dropped:      5 - Requests Completed:   6605
+Time:   6941 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   6612 - Requests Dropped:      5 - Requests Completed:   6612
+Time:   6951 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6612 - Requests Dropped:      5 - Requests Completed:   6612
+Time:   6961 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6612 - Requests Dropped:      5 - Requests Completed:   6612
+Time:   6971 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6612 - Requests Dropped:      5 - Requests Completed:   6612
+Time:   6973 - Enqueued 8 requests.
+Time:   6981 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   6620 - Requests Dropped:      5 - Requests Completed:   6619
+Time:   6991 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   6620 - Requests Dropped:      5 - Requests Completed:   6620
+Time:   7001 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6620 - Requests Dropped:      5 - Requests Completed:   6620
+Time:   7009 - Enqueued 21 requests.
+Time:   7011 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   6632 - Requests Dropped:      5 - Requests Completed:   6622
+Time:   7021 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6641 - Requests Dropped:      5 - Requests Completed:   6638
+Time:   7031 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   6641 - Requests Dropped:      5 - Requests Completed:   6641
+Time:   7039 - Enqueued 2 requests.
+Time:   7041 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   6643 - Requests Dropped:      5 - Requests Completed:   6641
+Time:   7044 - Enqueued 21 requests.
+Time:   7051 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   6659 - Requests Dropped:      5 - Requests Completed:   6649
+Time:   7061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6664 - Requests Dropped:      5 - Requests Completed:   6664
+Time:   7071 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6664 - Requests Dropped:      5 - Requests Completed:   6664
+Time:   7072 - Enqueued 14 requests.
+Time:   7081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6678 - Requests Dropped:      5 - Requests Completed:   6674
+Time:   7081 - Enqueued 24 requests.
+Time:   7091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6702 - Requests Dropped:      5 - Requests Completed:   6693
+Time:   7098 - Enqueued 6 requests.
+Time:   7101 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   6708 - Requests Dropped:      5 - Requests Completed:   6703
+Time:   7111 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   6708 - Requests Dropped:      5 - Requests Completed:   6708
+Time:   7119 - Enqueued 6 requests.
+Time:   7121 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   6714 - Requests Dropped:      5 - Requests Completed:   6708
+Time:   7128 - Enqueued 19 requests.
+Time:   7131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   6725 - Requests Dropped:      5 - Requests Completed:   6715
+Time:   7141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6733 - Requests Dropped:      5 - Requests Completed:   6730
+Time:   7151 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   6733 - Requests Dropped:      5 - Requests Completed:   6733
+Time:   7152 - Enqueued 6 requests.
+Time:   7161 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   6739 - Requests Dropped:      5 - Requests Completed:   6734
+Time:   7171 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   6739 - Requests Dropped:      5 - Requests Completed:   6739
+Time:   7181 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6739 - Requests Dropped:      5 - Requests Completed:   6739
+Time:   7181 - Enqueued 11 requests.
+Time:   7191 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6750 - Requests Dropped:      5 - Requests Completed:   6749
+Time:   7197 - Enqueued 11 requests.
+Time:   7201 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6761 - Requests Dropped:      5 - Requests Completed:   6751
+Time:   7202 - Enqueued 10 requests.
+Time:   7206 - Enqueued 2 requests.
+Time:   7211 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6773 - Requests Dropped:      5 - Requests Completed:   6766
+Time:   7221 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   6773 - Requests Dropped:      5 - Requests Completed:   6773
+Time:   7231 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6773 - Requests Dropped:      5 - Requests Completed:   6773
+Time:   7241 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6773 - Requests Dropped:      5 - Requests Completed:   6773
+Time:   7248 - Enqueued 9 requests.
+Time:   7251 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   6782 - Requests Dropped:      5 - Requests Completed:   6774
+Time:   7261 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   6782 - Requests Dropped:      5 - Requests Completed:   6782
+Time:   7271 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6782 - Requests Dropped:      5 - Requests Completed:   6782
+Time:   7281 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6782 - Requests Dropped:      5 - Requests Completed:   6782
+Time:   7291 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6782 - Requests Dropped:      5 - Requests Completed:   6782
+Time:   7301 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6782 - Requests Dropped:      5 - Requests Completed:   6782
+Time:   7308 - Enqueued 9 requests.
+Time:   7310 - Enqueued 10 requests.
+Time:   7311 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   6793 - Requests Dropped:      5 - Requests Completed:   6783
+Time:   7321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6801 - Requests Dropped:      5 - Requests Completed:   6800
+Time:   7329 - Enqueued 14 requests.
+Time:   7331 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   6812 - Requests Dropped:      5 - Requests Completed:   6802
+Time:   7336 - Enqueued 6 requests.
+Time:   7341 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6821 - Requests Dropped:      5 - Requests Completed:   6815
+Time:   7350 - Enqueued 9 requests.
+Time:   7351 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   6830 - Requests Dropped:      5 - Requests Completed:   6821
+Time:   7361 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   6830 - Requests Dropped:      5 - Requests Completed:   6830
+Time:   7371 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6830 - Requests Dropped:      5 - Requests Completed:   6830
+Time:   7378 - Enqueued 20 requests.
+Time:   7381 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   6843 - Requests Dropped:      5 - Requests Completed:   6833
+Time:   7389 - Enqueued 29 requests.
+Time:   7391 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    20 - Requests Processed:   6859 - Requests Dropped:      5 - Requests Completed:   6849
+Time:   7401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   6873 - Requests Dropped:      5 - Requests Completed:   6863
+Time:   7411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6879 - Requests Dropped:      5 - Requests Completed:   6877
+Time:   7419 - Enqueued 19 requests.
+Time:   7421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   6891 - Requests Dropped:      5 - Requests Completed:   6881
+Time:   7422 - Enqueued 11 requests.
+Time:   7431 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   6904 - Requests Dropped:      5 - Requests Completed:   6894
+Time:   7441 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6909 - Requests Dropped:      5 - Requests Completed:   6908
+Time:   7451 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   6909 - Requests Dropped:      5 - Requests Completed:   6909
+Time:   7461 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6909 - Requests Dropped:      5 - Requests Completed:   6909
+Time:   7468 - Enqueued 9 requests.
+Time:   7471 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   6918 - Requests Dropped:      5 - Requests Completed:   6910
+Time:   7481 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   6918 - Requests Dropped:      5 - Requests Completed:   6918
+Time:   7481 - Enqueued 3 requests.
+Time:   7491 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   6921 - Requests Dropped:      5 - Requests Completed:   6920
+Time:   7501 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   6921 - Requests Dropped:      5 - Requests Completed:   6921
+Time:   7504 - Enqueued 7 requests.
+Time:   7511 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   6928 - Requests Dropped:      5 - Requests Completed:   6927
+Time:   7521 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   6928 - Requests Dropped:      5 - Requests Completed:   6928
+Time:   7526 - Enqueued 17 requests.
+Time:   7527 - Enqueued 21 requests.
+Time:   7531 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    28 - Requests Processed:   6938 - Requests Dropped:      5 - Requests Completed:   6928
+Time:   7541 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   6959 - Requests Dropped:      5 - Requests Completed:   6949
+Time:   7551 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6966 - Requests Dropped:      5 - Requests Completed:   6966
+Time:   7561 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   6966 - Requests Dropped:      5 - Requests Completed:   6966
+Time:   7563 - Enqueued 8 requests.
+Time:   7571 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   6974 - Requests Dropped:      5 - Requests Completed:   6973
+Time:   7578 - Enqueued 19 requests.
+Time:   7581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   6985 - Requests Dropped:      5 - Requests Completed:   6975
+Time:   7591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   6993 - Requests Dropped:      5 - Requests Completed:   6992
+Time:   7596 - Enqueued 11 requests.
+Time:   7601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7004 - Requests Dropped:      5 - Requests Completed:   7000
+Time:   7605 - Enqueued 11 requests.
+Time:   7611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7015 - Requests Dropped:      5 - Requests Completed:   7010
+Time:   7618 - Enqueued 27 requests.
+Time:   7621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    16 - Requests Processed:   7026 - Requests Dropped:      5 - Requests Completed:   7016
+Time:   7625 - Enqueued 5 requests.
+Time:   7628 - Enqueued 6 requests.
+Time:   7630 - Enqueued 7 requests.
+Time:   7631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   7041 - Requests Dropped:      5 - Requests Completed:   7031
+Time:   7641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   7055 - Requests Dropped:      5 - Requests Completed:   7045
+Time:   7651 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7060 - Requests Dropped:      5 - Requests Completed:   7060
+Time:   7653 - Enqueued 26 requests.
+Time:   7661 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   7080 - Requests Dropped:      5 - Requests Completed:   7070
+Time:   7671 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7086 - Requests Dropped:      5 - Requests Completed:   7083
+Time:   7676 - Enqueued 14 requests.
+Time:   7681 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   7097 - Requests Dropped:      5 - Requests Completed:   7087
+Time:   7681 - Enqueued 10 requests.
+Time:   7691 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7110 - Requests Dropped:      5 - Requests Completed:   7104
+Time:   7701 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   7110 - Requests Dropped:      5 - Requests Completed:   7110
+Time:   7711 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7110 - Requests Dropped:      5 - Requests Completed:   7110
+Time:   7719 - Enqueued 16 requests.
+Time:   7721 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   7120 - Requests Dropped:      5 - Requests Completed:   7110
+Time:   7727 - Enqueued 24 requests.
+Time:   7731 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   7137 - Requests Dropped:      5 - Requests Completed:   7127
+Time:   7739 - Enqueued 12 requests.
+Time:   7741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   7155 - Requests Dropped:      5 - Requests Completed:   7145
+Time:   7741 - Enqueued 28 requests.
+Time:   7748 - Enqueued 14 requests.
+Time:   7751 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    32 - Requests Processed:   7172 - Requests Dropped:      5 - Requests Completed:   7162
+Time:   7761 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   7191 - Requests Dropped:      5 - Requests Completed:   7181
+Time:   7771 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7204 - Requests Dropped:      5 - Requests Completed:   7195
+Time:   7781 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   7204 - Requests Dropped:      5 - Requests Completed:   7204
+Time:   7791 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7204 - Requests Dropped:      5 - Requests Completed:   7204
+Time:   7801 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7204 - Requests Dropped:      5 - Requests Completed:   7204
+Time:   7811 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7204 - Requests Dropped:      5 - Requests Completed:   7204
+Time:   7811 - Enqueued 14 requests.
+Time:   7821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7218 - Requests Dropped:      5 - Requests Completed:   7218
+Time:   7831 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7218 - Requests Dropped:      5 - Requests Completed:   7218
+Time:   7841 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7218 - Requests Dropped:      5 - Requests Completed:   7218
+Time:   7842 - Enqueued 15 requests.
+Time:   7851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7233 - Requests Dropped:      5 - Requests Completed:   7228
+Time:   7861 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   7233 - Requests Dropped:      5 - Requests Completed:   7233
+Time:   7871 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7233 - Requests Dropped:      5 - Requests Completed:   7233
+Time:   7875 - Enqueued 24 requests.
+Time:   7881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    10 - Requests Processed:   7247 - Requests Dropped:      5 - Requests Completed:   7237
+Time:   7891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7257 - Requests Dropped:      5 - Requests Completed:   7253
+Time:   7901 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   7257 - Requests Dropped:      5 - Requests Completed:   7257
+Time:   7904 - Enqueued 26 requests.
+Time:   7911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   7276 - Requests Dropped:      5 - Requests Completed:   7266
+Time:   7917 - Enqueued 6 requests.
+Time:   7921 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7289 - Requests Dropped:      5 - Requests Completed:   7283
+Time:   7931 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   7289 - Requests Dropped:      5 - Requests Completed:   7289
+Time:   7941 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7289 - Requests Dropped:      5 - Requests Completed:   7289
+Time:   7951 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7289 - Requests Dropped:      5 - Requests Completed:   7289
+Time:   7961 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7289 - Requests Dropped:      5 - Requests Completed:   7289
+Time:   7967 - Enqueued 15 requests.
+Time:   7971 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7304 - Requests Dropped:      5 - Requests Completed:   7294
+Time:   7981 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7304 - Requests Dropped:      5 - Requests Completed:   7304
+Time:   7981 - Enqueued 35 requests.
+Time:   7991 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   7331 - Requests Dropped:      5 - Requests Completed:   7321
+Time:   7993 - Enqueued 15 requests.
+Time:   8001 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   7351 - Requests Dropped:      5 - Requests Completed:   7341
+Time:   8011 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7354 - Requests Dropped:      5 - Requests Completed:   7353
+Time:   8021 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   7354 - Requests Dropped:      5 - Requests Completed:   7354
+Time:   8031 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7354 - Requests Dropped:      5 - Requests Completed:   7354
+Time:   8041 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7354 - Requests Dropped:      5 - Requests Completed:   7354
+Time:   8046 - Enqueued 19 requests.
+Time:   8051 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   7371 - Requests Dropped:      5 - Requests Completed:   7361
+Time:   8058 - Enqueued 4 requests.
+Time:   8061 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7377 - Requests Dropped:      5 - Requests Completed:   7374
+Time:   8062 - Enqueued 19 requests.
+Time:   8071 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   7394 - Requests Dropped:      5 - Requests Completed:   7384
+Time:   8079 - Enqueued 17 requests.
+Time:   8081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   7407 - Requests Dropped:      5 - Requests Completed:   7397
+Time:   8091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7413 - Requests Dropped:      5 - Requests Completed:   7408
+Time:   8095 - Enqueued 25 requests.
+Time:   8099 - Enqueued 32 requests.
+Time:   8101 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    43 - Requests Processed:   7427 - Requests Dropped:      5 - Requests Completed:   7417
+Time:   8111 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    27 - Requests Processed:   7443 - Requests Dropped:      5 - Requests Completed:   7433
+Time:   8121 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   7461 - Requests Dropped:      5 - Requests Completed:   7451
+Time:   8131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7470 - Requests Dropped:      5 - Requests Completed:   7468
+Time:   8141 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   7470 - Requests Dropped:      5 - Requests Completed:   7470
+Time:   8151 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7470 - Requests Dropped:      5 - Requests Completed:   7470
+Time:   8161 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7470 - Requests Dropped:      5 - Requests Completed:   7470
+Time:   8171 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7470 - Requests Dropped:      5 - Requests Completed:   7470
+Time:   8171 - Enqueued 12 requests.
+Time:   8181 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7482 - Requests Dropped:      5 - Requests Completed:   7481
+Time:   8191 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   7482 - Requests Dropped:      5 - Requests Completed:   7482
+Time:   8195 - Enqueued 8 requests.
+Time:   8201 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   7490 - Requests Dropped:      5 - Requests Completed:   7486
+Time:   8211 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   7490 - Requests Dropped:      5 - Requests Completed:   7490
+Time:   8211 - Enqueued 22 requests.
+Time:   8221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   7510 - Requests Dropped:      5 - Requests Completed:   7500
+Time:   8225 - Enqueued 12 requests.
+Time:   8226 - Enqueued 14 requests.
+Time:   8231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   7527 - Requests Dropped:      5 - Requests Completed:   7517
+Time:   8233 - Enqueued 26 requests.
+Time:   8241 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   7547 - Requests Dropped:      5 - Requests Completed:   7537
+Time:   8251 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   7563 - Requests Dropped:      5 - Requests Completed:   7553
+Time:   8252 - Enqueued 13 requests.
+Time:   8261 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7577 - Requests Dropped:      5 - Requests Completed:   7570
+Time:   8271 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   7577 - Requests Dropped:      5 - Requests Completed:   7577
+Time:   8274 - Enqueued 12 requests.
+Time:   8281 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7589 - Requests Dropped:      5 - Requests Completed:   7582
+Time:   8284 - Enqueued 4 requests.
+Time:   8291 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   7593 - Requests Dropped:      5 - Requests Completed:   7590
+Time:   8301 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   7593 - Requests Dropped:      5 - Requests Completed:   7593
+Time:   8311 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7593 - Requests Dropped:      5 - Requests Completed:   7593
+Time:   8321 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7593 - Requests Dropped:      5 - Requests Completed:   7593
+Time:   8331 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7593 - Requests Dropped:      5 - Requests Completed:   7593
+Time:   8336 - Enqueued 29 requests.
+Time:   8341 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   7604 - Requests Dropped:      5 - Requests Completed:   7594
+Time:   8347 - Enqueued 26 requests.
+Time:   8351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    26 - Requests Processed:   7622 - Requests Dropped:      5 - Requests Completed:   7612
+Time:   8358 - Enqueued 25 requests.
+Time:   8361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    34 - Requests Processed:   7639 - Requests Dropped:      5 - Requests Completed:   7629
+Time:   8361 - Enqueued 15 requests.
+Time:   8371 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    31 - Requests Processed:   7657 - Requests Dropped:      5 - Requests Completed:   7647
+Time:   8373 - Enqueued 41 requests.
+Time:   8381 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    55 - Requests Processed:   7674 - Requests Dropped:      5 - Requests Completed:   7664
+Time:   8391 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    39 - Requests Processed:   7690 - Requests Dropped:      5 - Requests Completed:   7680
+Time:   8392 - Enqueued 3 requests.
+Time:   8401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   7715 - Requests Dropped:      5 - Requests Completed:   7705
+Time:   8411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7732 - Requests Dropped:      5 - Requests Completed:   7725
+Time:   8416 - Enqueued 26 requests.
+Time:   8421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    15 - Requests Processed:   7743 - Requests Dropped:      5 - Requests Completed:   7733
+Time:   8431 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7758 - Requests Dropped:      5 - Requests Completed:   7751
+Time:   8436 - Enqueued 16 requests.
+Time:   8441 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   7773 - Requests Dropped:      5 - Requests Completed:   7763
+Time:   8445 - Enqueued 13 requests.
+Time:   8451 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7781
+Time:   8461 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8471 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8481 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8491 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8501 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8511 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8521 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7787 - Requests Dropped:      5 - Requests Completed:   7787
+Time:   8526 - Enqueued 10 requests.
+Time:   8528 - Enqueued 8 requests.
+Time:   8531 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   7800 - Requests Dropped:      5 - Requests Completed:   7790
+Time:   8541 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7805 - Requests Dropped:      5 - Requests Completed:   7803
+Time:   8551 - Active Servers:   2 - Deactivated Servers:   8 - Queue Size:     0 - Requests Processed:   7805 - Requests Dropped:      5 - Requests Completed:   7805
+Time:   8561 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7805 - Requests Dropped:      5 - Requests Completed:   7805
+Time:   8571 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7805 - Requests Dropped:      5 - Requests Completed:   7805
+Time:   8578 - Enqueued 35 requests.
+Time:   8581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    24 - Requests Processed:   7816 - Requests Dropped:      5 - Requests Completed:   7806
+Time:   8591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   7832 - Requests Dropped:      5 - Requests Completed:   7822
+Time:   8596 - Enqueued 10 requests.
+Time:   8601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   7846 - Requests Dropped:      5 - Requests Completed:   7836
+Time:   8611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7850 - Requests Dropped:      5 - Requests Completed:   7850
+Time:   8621 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7850 - Requests Dropped:      5 - Requests Completed:   7850
+Time:   8625 - Enqueued 16 requests.
+Time:   8631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   7865 - Requests Dropped:      5 - Requests Completed:   7855
+Time:   8641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7866 - Requests Dropped:      5 - Requests Completed:   7865
+Time:   8644 - Enqueued 10 requests.
+Time:   8651 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7876 - Requests Dropped:      5 - Requests Completed:   7871
+Time:   8661 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   7876 - Requests Dropped:      5 - Requests Completed:   7876
+Time:   8671 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7876 - Requests Dropped:      5 - Requests Completed:   7876
+Time:   8680 - Enqueued 12 requests.
+Time:   8681 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   7886 - Requests Dropped:      5 - Requests Completed:   7876
+Time:   8691 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7888 - Requests Dropped:      5 - Requests Completed:   7887
+Time:   8695 - Enqueued 7 requests.
+Time:   8701 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   7895 - Requests Dropped:      5 - Requests Completed:   7890
+Time:   8711 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   7895 - Requests Dropped:      5 - Requests Completed:   7895
+Time:   8721 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7895 - Requests Dropped:      5 - Requests Completed:   7895
+Time:   8731 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7895 - Requests Dropped:      5 - Requests Completed:   7895
+Time:   8741 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7895 - Requests Dropped:      5 - Requests Completed:   7895
+Time:   8751 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7895 - Requests Dropped:      5 - Requests Completed:   7895
+Time:   8756 - Enqueued 16 requests.
+Time:   8761 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7911 - Requests Dropped:      5 - Requests Completed:   7902
+Time:   8771 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   7911 - Requests Dropped:      5 - Requests Completed:   7911
+Time:   8772 - Enqueued 10 requests.
+Time:   8778 - Enqueued 22 requests.
+Time:   8781 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    13 - Requests Processed:   7930 - Requests Dropped:      5 - Requests Completed:   7920
+Time:   8791 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7943 - Requests Dropped:      5 - Requests Completed:   7937
+Time:   8792 - Enqueued 2 requests.
+Time:   8801 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   7945 - Requests Dropped:      5 - Requests Completed:   7945
+Time:   8811 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7945 - Requests Dropped:      5 - Requests Completed:   7945
+Time:   8811 - Enqueued 10 requests.
+Time:   8821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7955 - Requests Dropped:      5 - Requests Completed:   7955
+Time:   8831 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   7955 - Requests Dropped:      5 - Requests Completed:   7955
+Time:   8831 - Enqueued 15 requests.
+Time:   8841 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   7970 - Requests Dropped:      5 - Requests Completed:   7964
+Time:   8847 - Enqueued 38 requests.
+Time:   8851 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    25 - Requests Processed:   7983 - Requests Dropped:      5 - Requests Completed:   7973
+Time:   8861 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   8006 - Requests Dropped:      5 - Requests Completed:   7996
+Time:   8871 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8008 - Requests Dropped:      5 - Requests Completed:   8007
+Time:   8873 - Enqueued 14 requests.
+Time:   8881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8022 - Requests Dropped:      5 - Requests Completed:   8017
+Time:   8881 - Enqueued 31 requests.
+Time:   8891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   8046 - Requests Dropped:      5 - Requests Completed:   8036
+Time:   8901 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8053 - Requests Dropped:      5 - Requests Completed:   8052
+Time:   8908 - Enqueued 17 requests.
+Time:   8911 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   8067 - Requests Dropped:      5 - Requests Completed:   8057
+Time:   8921 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8070 - Requests Dropped:      5 - Requests Completed:   8069
+Time:   8921 - Enqueued 3 requests.
+Time:   8931 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   8073 - Requests Dropped:      5 - Requests Completed:   8073
+Time:   8941 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8073 - Requests Dropped:      5 - Requests Completed:   8073
+Time:   8944 - Enqueued 26 requests.
+Time:   8951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     9 - Requests Processed:   8090 - Requests Dropped:      5 - Requests Completed:   8080
+Time:   8961 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8099 - Requests Dropped:      5 - Requests Completed:   8097
+Time:   8967 - Enqueued 9 requests.
+Time:   8971 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   8108 - Requests Dropped:      5 - Requests Completed:   8103
+Time:   8981 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8108 - Requests Dropped:      5 - Requests Completed:   8108
+Time:   8991 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8108 - Requests Dropped:      5 - Requests Completed:   8108
+Time:   9001 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8108 - Requests Dropped:      5 - Requests Completed:   8108
+Time:   9011 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8108 - Requests Dropped:      5 - Requests Completed:   8108
+Time:   9021 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8108 - Requests Dropped:      5 - Requests Completed:   8108
+Time:   9026 - Enqueued 7 requests.
+Time:   9031 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   8115 - Requests Dropped:      5 - Requests Completed:   8108
+Time:   9041 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   8115 - Requests Dropped:      5 - Requests Completed:   8115
+Time:   9051 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8115 - Requests Dropped:      5 - Requests Completed:   8115
+Time:   9061 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8115 - Requests Dropped:      5 - Requests Completed:   8115
+Time:   9067 - Enqueued 1 requests.
+Time:   9071 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   8116 - Requests Dropped:      5 - Requests Completed:   8116
+Time:   9078 - Enqueued 23 requests.
+Time:   9081 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   8127 - Requests Dropped:      5 - Requests Completed:   8117
+Time:   9091 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8139 - Requests Dropped:      5 - Requests Completed:   8131
+Time:   9101 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   8139 - Requests Dropped:      5 - Requests Completed:   8139
+Time:   9111 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8139 - Requests Dropped:      5 - Requests Completed:   8139
+Time:   9121 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8139 - Requests Dropped:      5 - Requests Completed:   8139
+Time:   9128 - Enqueued 28 requests.
+Time:   9131 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   8150 - Requests Dropped:      5 - Requests Completed:   8140
+Time:   9134 - Enqueued 18 requests.
+Time:   9141 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    18 - Requests Processed:   8167 - Requests Dropped:      5 - Requests Completed:   8157
+Time:   9151 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8185 - Requests Dropped:      5 - Requests Completed:   8178
+Time:   9161 - Active Servers:   7 - Deactivated Servers:   3 - Queue Size:     0 - Requests Processed:   8185 - Requests Dropped:      5 - Requests Completed:   8185
+Time:   9171 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8185 - Requests Dropped:      5 - Requests Completed:   8185
+Time:   9178 - Enqueued 15 requests.
+Time:   9181 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     5 - Requests Processed:   8195 - Requests Dropped:      5 - Requests Completed:   8185
+Time:   9191 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8200 - Requests Dropped:      5 - Requests Completed:   8200
+Time:   9191 - Enqueued 22 requests.
+Time:   9195 - Enqueued 13 requests.
+Time:   9201 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   8224 - Requests Dropped:      5 - Requests Completed:   8214
+Time:   9202 - Enqueued 34 requests.
+Time:   9211 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    27 - Requests Processed:   8242 - Requests Dropped:      5 - Requests Completed:   8232
+Time:   9215 - Enqueued 3 requests.
+Time:   9221 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   8261 - Requests Dropped:      5 - Requests Completed:   8251
+Time:   9226 - Enqueued 19 requests.
+Time:   9229 - Enqueued 10 requests.
+Time:   9231 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    17 - Requests Processed:   8284 - Requests Dropped:      5 - Requests Completed:   8274
+Time:   9241 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8301 - Requests Dropped:      5 - Requests Completed:   8293
+Time:   9244 - Enqueued 5 requests.
+Time:   9251 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8303
+Time:   9261 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8306
+Time:   9271 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8306
+Time:   9281 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8306
+Time:   9291 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8306
+Time:   9301 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8306
+Time:   9311 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8306 - Requests Dropped:      5 - Requests Completed:   8306
+Time:   9311 - Enqueued 15 requests.
+Time:   9321 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8321 - Requests Dropped:      5 - Requests Completed:   8316
+Time:   9331 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8321 - Requests Dropped:      5 - Requests Completed:   8321
+Time:   9341 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8321 - Requests Dropped:      5 - Requests Completed:   8321
+Time:   9343 - Enqueued 13 requests.
+Time:   9347 - Enqueued 3 requests.
+Time:   9351 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8337 - Requests Dropped:      5 - Requests Completed:   8329
+Time:   9353 - Enqueued 22 requests.
+Time:   9361 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   8353 - Requests Dropped:      5 - Requests Completed:   8343
+Time:   9371 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8359 - Requests Dropped:      5 - Requests Completed:   8359
+Time:   9381 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8359 - Requests Dropped:      5 - Requests Completed:   8359
+Time:   9387 - Enqueued 15 requests.
+Time:   9391 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     4 - Requests Processed:   8370 - Requests Dropped:      5 - Requests Completed:   8360
+Time:   9401 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8374 - Requests Dropped:      5 - Requests Completed:   8373
+Time:   9410 - Enqueued 18 requests.
+Time:   9411 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     8 - Requests Processed:   8384 - Requests Dropped:      5 - Requests Completed:   8374
+Time:   9414 - Enqueued 3 requests.
+Time:   9421 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8395 - Requests Dropped:      5 - Requests Completed:   8390
+Time:   9431 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8395 - Requests Dropped:      5 - Requests Completed:   8395
+Time:   9441 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8395 - Requests Dropped:      5 - Requests Completed:   8395
+Time:   9451 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8395 - Requests Dropped:      5 - Requests Completed:   8395
+Time:   9461 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8395 - Requests Dropped:      5 - Requests Completed:   8395
+Time:   9471 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8395 - Requests Dropped:      5 - Requests Completed:   8395
+Time:   9474 - Enqueued 13 requests.
+Time:   9481 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8408 - Requests Dropped:      5 - Requests Completed:   8403
+Time:   9491 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8408 - Requests Dropped:      5 - Requests Completed:   8408
+Time:   9501 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8408 - Requests Dropped:      5 - Requests Completed:   8408
+Time:   9506 - Enqueued 24 requests.
+Time:   9511 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   8421 - Requests Dropped:      5 - Requests Completed:   8411
+Time:   9521 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8432 - Requests Dropped:      5 - Requests Completed:   8426
+Time:   9525 - Enqueued 8 requests.
+Time:   9531 - Active Servers:   8 - Deactivated Servers:   2 - Queue Size:     0 - Requests Processed:   8440 - Requests Dropped:      5 - Requests Completed:   8435
+Time:   9541 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8440 - Requests Dropped:      5 - Requests Completed:   8440
+Time:   9551 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8440 - Requests Dropped:      5 - Requests Completed:   8440
+Time:   9561 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8440 - Requests Dropped:      5 - Requests Completed:   8440
+Time:   9571 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8440 - Requests Dropped:      5 - Requests Completed:   8440
+Time:   9572 - Enqueued 22 requests.
+Time:   9581 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   8461 - Requests Dropped:      5 - Requests Completed:   8451
+Time:   9583 - Enqueued 10 requests.
+Time:   9591 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8472 - Requests Dropped:      5 - Requests Completed:   8466
+Time:   9600 - Enqueued 42 requests.
+Time:   9601 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    32 - Requests Processed:   8482 - Requests Dropped:      5 - Requests Completed:   8472
+Time:   9601 - Enqueued 10 requests.
+Time:   9607 - Enqueued 31 requests.
+Time:   9611 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    55 - Requests Processed:   8500 - Requests Dropped:      5 - Requests Completed:   8490
+Time:   9621 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    37 - Requests Processed:   8518 - Requests Dropped:      5 - Requests Completed:   8508
+Time:   9631 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    20 - Requests Processed:   8535 - Requests Dropped:      5 - Requests Completed:   8525
+Time:   9641 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   8554 - Requests Dropped:      5 - Requests Completed:   8544
+Time:   9645 - Enqueued 33 requests.
+Time:   9651 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    19 - Requests Processed:   8569 - Requests Dropped:      5 - Requests Completed:   8559
+Time:   9661 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8588 - Requests Dropped:      5 - Requests Completed:   8579
+Time:   9666 - Enqueued 18 requests.
+Time:   9671 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   8600 - Requests Dropped:      5 - Requests Completed:   8590
+Time:   9677 - Enqueued 12 requests.
+Time:   9678 - Enqueued 20 requests.
+Time:   9681 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    25 - Requests Processed:   8613 - Requests Dropped:      5 - Requests Completed:   8603
+Time:   9681 - Enqueued 17 requests.
+Time:   9691 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    26 - Requests Processed:   8629 - Requests Dropped:      5 - Requests Completed:   8619
+Time:   9701 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     6 - Requests Processed:   8649 - Requests Dropped:      5 - Requests Completed:   8639
+Time:   9707 - Enqueued 30 requests.
+Time:   9711 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    20 - Requests Processed:   8665 - Requests Dropped:      5 - Requests Completed:   8655
+Time:   9719 - Enqueued 6 requests.
+Time:   9721 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    11 - Requests Processed:   8680 - Requests Dropped:      5 - Requests Completed:   8670
+Time:   9731 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8691 - Requests Dropped:      5 - Requests Completed:   8688
+Time:   9733 - Enqueued 15 requests.
+Time:   9741 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8706 - Requests Dropped:      5 - Requests Completed:   8701
+Time:   9744 - Enqueued 1 requests.
+Time:   9751 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8707 - Requests Dropped:      5 - Requests Completed:   8707
+Time:   9761 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8707 - Requests Dropped:      5 - Requests Completed:   8707
+Time:   9771 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8707 - Requests Dropped:      5 - Requests Completed:   8707
+Time:   9781 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8707 - Requests Dropped:      5 - Requests Completed:   8707
+Time:   9791 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8707 - Requests Dropped:      5 - Requests Completed:   8707
+Time:   9795 - Enqueued 17 requests.
+Time:   9801 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     1 - Requests Processed:   8723 - Requests Dropped:      5 - Requests Completed:   8713
+Time:   9811 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8724 - Requests Dropped:      5 - Requests Completed:   8724
+Time:   9816 - Enqueued 18 requests.
+Time:   9821 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     3 - Requests Processed:   8739 - Requests Dropped:      5 - Requests Completed:   8729
+Time:   9831 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8742 - Requests Dropped:      5 - Requests Completed:   8741
+Time:   9841 - Active Servers:   1 - Deactivated Servers:   9 - Queue Size:     0 - Requests Processed:   8742 - Requests Dropped:      5 - Requests Completed:   8742
+Time:   9845 - Enqueued 1 requests.
+Time:   9849 - Enqueued 3 requests.
+Time:   9851 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   8746 - Requests Dropped:      5 - Requests Completed:   8743
+Time:   9861 - Active Servers:   3 - Deactivated Servers:   7 - Queue Size:     0 - Requests Processed:   8746 - Requests Dropped:      5 - Requests Completed:   8746
+Time:   9871 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8746 - Requests Dropped:      5 - Requests Completed:   8746
+Time:   9877 - Enqueued 15 requests.
+Time:   9879 - Enqueued 11 requests.
+Time:   9881 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:    12 - Requests Processed:   8760 - Requests Dropped:      5 - Requests Completed:   8750
+Time:   9891 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8772 - Requests Dropped:      5 - Requests Completed:   8766
+Time:   9901 - Active Servers:   6 - Deactivated Servers:   4 - Queue Size:     0 - Requests Processed:   8772 - Requests Dropped:      5 - Requests Completed:   8772
+Time:   9911 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8772 - Requests Dropped:      5 - Requests Completed:   8772
+Time:   9921 - Active Servers:   0 - Deactivated Servers:  10 - Queue Size:     0 - Requests Processed:   8772 - Requests Dropped:      5 - Requests Completed:   8772
+Time:   9926 - Enqueued 17 requests.
+Time:   9931 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     2 - Requests Processed:   8787 - Requests Dropped:      5 - Requests Completed:   8777
+Time:   9931 - Enqueued 16 requests.
+Time:   9941 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8805 - Requests Dropped:      5 - Requests Completed:   8795
+Time:   9944 - Enqueued 10 requests.
+Time:   9951 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     0 - Requests Processed:   8815 - Requests Dropped:      5 - Requests Completed:   8810
+Time:   9958 - Enqueued 4 requests.
+Time:   9961 - Active Servers:   5 - Deactivated Servers:   5 - Queue Size:     0 - Requests Processed:   8819 - Requests Dropped:      5 - Requests Completed:   8815
+Time:   9971 - Active Servers:   4 - Deactivated Servers:   6 - Queue Size:     0 - Requests Processed:   8819 - Requests Dropped:      5 - Requests Completed:   8819
+Time:   9979 - Enqueued 9 requests.
+Time:   9981 - Active Servers:   9 - Deactivated Servers:   1 - Queue Size:     0 - Requests Processed:   8828 - Requests Dropped:      5 - Requests Completed:   8820
+Time:   9987 - Enqueued 21 requests.
+Time:   9991 - Active Servers:  10 - Deactivated Servers:   0 - Queue Size:     7 - Requests Processed:   8842 - Requests Dropped:      5 - Requests Completed:   8832
+--- End of Simulation ---
+Servers active at end: 10
+Servers free at end: 5
+Servers deactivated at end: 0
+Total requests processed: 8849
+Total requests dropped: 5
+Total requests completed: 8844
+Final queue size: 0

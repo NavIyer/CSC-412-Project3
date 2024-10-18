@@ -14,4 +14,3 @@ $(TARGET): $(SRCS)
 
 clean:
 	rm -f $(TARGET)
-
