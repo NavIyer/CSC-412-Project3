@@ -1,19 +1,15 @@
 #include "request.h"
 
-#include "utils.h"
 
-using std::cout;
-using std::endl;
-
-Request::Request(int runLength)
+Request::Request(int maxProcessingTime)
 {
     ipIn = RandomIp();
     ipOut = RandomIp();
-    arrivalTime = rand() % runLength;
+    processingTime = rand() % maxProcessingTime + 1;
     jobType = (rand() % 2 == 0) ? 'P' : 'S';
 }
 
 void Request::Print()
 {
-    cout << "Incoming IP: " << ipIn << ", Outgoing IP: " << ipOut << ", Arrival Time: " << arrivalTime << ", Job Type: " << jobType << endl;
+    cout << "Incoming IP: " << ipIn << ", Outgoing IP: " << ipOut << ", Processing Time: " << processingTime << ", Job Type: " << jobType << endl;
 }
